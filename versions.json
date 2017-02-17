@@ -1,5 +1,11 @@
 {
   "versions": [{
+    "versiontype": "proofreading",
+    "title": "Tone in Yongning Na: Lexical tones and morphotonology",
+    "authors": [{"name": "Alexis Michaud"}],
+    "publishedAt": "2017-02-17T00:00:33.000Z"
+  },
+  "versions": [{
     "versiontype": "openreview",
     "title": "Tone in Yongning Na: Lexical tones and morphotonology",
     "authors": [{"name": "Alexis Michaud"}],
