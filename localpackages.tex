@@ -1,0 +1,104 @@
+% add all extra packages you need to load to this file  
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                              %%%
+%%%           Examples                           %%%
+%%%                                              %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+%% to add additional information to the right of examples, uncomment the following line
+% \usepackage{jambox}
+%% if you want the source line of examples to be in italics, uncomment the following line
+% \renewcommand{\exfont}{\itshape}
+\usepackage{./langsci/styles/langsci-gb4e}
+\usepackage{./langsci/styles/langsci-optional}
+\usepackage{listings}
+
+\lstset{ %
+  backgroundcolor=\color{white},   % choose the background color; you must add \usepackage{color} or \usepackage{xcolor}
+  basicstyle=\footnotesize\ttfamily,        % the size of the fonts that are used for the code 
+  keywordstyle=\color{blue!60!black},       % keyword style
+  language=XML,                 % the language of the code 
+  stringstyle=\color{green!60!black},     % string literal style 
+  morekeywords={token,xlink:href, Action, Value, Cursor,LogEvent}
+} 
+ 
+% cmld: better tables
+\usepackage{tabularx}
+
+% cmld: merge rows
+\usepackage{multirow}
+
+% cmld: dashed lines
+\usepackage{arydshln}
+
+% cmld: coloured table cells
+\usepackage{colortbl}
+
+% cmld: subnumbering floats
+\usepackage{subfloat}
+
+% Alexis: package for docking floats after current page
+\usepackage{afterpage}
+
+% Alexis: package for family tree
+\usepackage{forest}
+
+% At recommendation of Thomas Pellard: tried package for math font that harmonizes well with Linux Libertine (main font)
+%\usepackage{libertinust1math}
+%% But this created option clash with fontspec.
+%Another test, 6/3/2017
+%\usepackage{amsmath}
+
+%%am: package for creating clean lists with (i), (ii) etc; in March 2016, spotted places where my manual labelling was wrong
+%\usepackage{enumerate}
+
+% cmld: Hyphenation of hyphenated words
+\usepackage[ngerman,english]{babel} 
+\useshorthands{"} 
+\addto\extrasenglish{\languageshorthands{ngerman}}
+
+
+
+% cmld: epigraph configuration
+% from Drager (http://langsci-press.org/catalog/book/75)
+\usepackage{epigraph}
+\setlength{\epigraphrule}{0pt}
+\renewcommand{\textflush}{flushepinormal}
+%\setlength{\epigraphwidth}{.2\textwidth}
+\setlength{\afterepigraphskip}{0\baselineskip}
+
+
+
+
+% cmld: comments and notes
+% \usepackage[colorinlistoftodos]{todonotes}
+
+% To get a straight quote
+%\usepackage{textcomp}
+
+% cmld: multiple columns (for abbreviations)
+\usepackage{multicol}
+
+% cmld: customised lists
+\usepackage{enumitem}
+
+% cmld: arrows for TikZ pictures
+\usetikzlibrary{arrows,decorations.markings}
+
+% cmld: plots
+\usepackage{pgfplots}
+
+% Alexis: packages for tickmarks (check marks) and xmarks
+\usepackage{amssymb}
+\usepackage{pifont}
+
+% Alexis: package for vertical spacing in {enumerate}
+\usepackage{enumitem}
+
+% Alexis: package for vertical spacing in {enumerate}
+\usepackage{caption}
+
+% For IPA turned around (Chao 1930 citation):
+\usepackage{graphicx}

@@ -1,0 +1,1570 @@
+\chapter{The lexical tones of nouns}
+\label{chap:thelexicaltonesofnouns}
+
+This chapter focuses on the lexical tones of nouns; it is customary in tonal studies to proceed “from the tones of nouns to the general organization of the system” (\citealt{riallandetal1989}; see also \citealt[526-527]{hyman2014}). In Yongning Na, tonal oppositions are partly neutralized when words are spoken in isolation.\is{form!in isolation} This casts a~subtle veil on the tone categories, hiding some of them from the casual observer. Because of these cases of \isi{neutralization}, issues concerning the behaviour of nouns in context will also be broached in this chapter, which thus
+serves as an~introduction to the Yongning Na tone system as a~whole.
+
+The chapter is organized in analytical order. It starts out from a~static inventory of tone patterns
+over domains of different lengths, and gradually progresses towards an~analysis. This mode of
+exposition replicates (as far as possible) the progression of analysis during fieldwork, working up from the surface
+facts. The aim is to allow the reader to evaluate the analysis step by step, and to reflect on
+possible alternatives, instead of proposing a~complete analysis from a~top"=down perspective.
+
+
+\section{A static inventory of tone patterns}
+\label{sec:astaticinventoryoftonepatterns}
+
+Words spoken in isolation\is{form!in isolation} (often referred to as \textit{citation forms}) are what one starts out from in the earliest stages of
+fieldwork. \tabref{tab:tonepatternsattestedovermonosyllabicnounsspokeninisolation} presents
+an~overview of the tone patterns over \is{monosyllables}monosyllabic nouns spoken \is{form!in isolation}in isolation. It was not possible to find
+a~minimal set (words distinguished solely by tone) due to the relatively low number of \is{monosyllables}monosyllabic
+nouns in the language.
+
+\begin{table}%[t]
+  \caption{Tone patterns attested over monosyllabic nouns spoken in isolation.}
+\begin{tabularx}{\textwidth}{ Q Q Q }
+  \lsptoprule
+	phonetic realization & preliminary label & example\\\midrule
+	non"=rising, non"=low & M ? H ? HM ? & /\ipa{ʐwæ}/ ‘horse’\\
+	low"=rising & LM ? LH ? & /\ipa{bo}/ ‘pig’\\
+	mid"=rising & MH ? & /\ipa{ʈʂʰæ}/ ‘deer’\\
+\lspbottomrule
+\end{tabularx}
+\label{tab:tonepatternsattestedovermonosyllabicnounsspokeninisolation}
+\end{table}
+
+At this initial stage, the essential
+information is that provided in the leftmost column in \tabref{tab:tonepatternsattestedovermonosyllabicnounsspokeninisolation}, describing the three patterns as
+follows: a~non"=rising, non"=low pattern; a~low"=rising pattern; and a~mid"=rising pattern.
+The second column of \tabref{tab:tonepatternsattestedovermonosyllabicnounsspokeninisolation} proposes preliminary labels for the three patterns using level tones:
+L(ow), M(id), H(igh), and their combinations. All that this second column does at the moment is to suggest how the three categories might be viewed in terms of L, M and H phonological levels. Justification for the use of a~level"=tone analysis
+comes from morphophonological alternations in which the tones partake; evidence of this will be provided later on in the course of the analysis. The question"=mark in the column ‘preliminary label’ is
+intended to emphasize that these labels were given in a~first pass; some were modified later on in
+the course of the analysis, as will be explained below. 
+
+The three surface\is{form!surface} patterns are the same for monosyllables that belong to other word classes, such as verbs. The restrictions on the tones of monosyllables spoken \is{form!in isolation}in isolation are the following. 
+
+\begin{enumerate}[label=(\roman*), itemsep=0pt]
+	%\item[(i)] Only two tones contrast on the first syllable: low and non"=low. There can be no \is{tonal contour}contour on the first syllable. 
+	%\item[(ii)] A~Mid tone cannot be followed by a~low"=rising tone.
+	%\item[(iii)] A~disyllable cannot be low throughout, any more than a~\is{monosyllables}monosyllable can. 
+	%\item[(iv)] There is no contrast between a~low+mid pattern and a~low+high pattern. 
+	\item There are
+	no examples of contrastive falling contours.
+	\item There is no opposition between a~high tone and a~mid tone:
+	only one type of non"=low, non"=rising tone is observed. Its realizations occupy the entire upper part
+	of the tonal space, varying from mid to high, with a~flat or falling \is{tonal contour}contour. The choice of the
+	label M (rather than H) for this pattern will be explained further below, at the stage of
+	phonological analysis.
+	\item There is only one \is{tonal contour}contour that starts on a~low pitch. Using \is{level tones}level"=tone
+	labels, this observation can be stated as follows: there is no opposition between LM and LH.
+	\item There are no examples of low, non"=rising tones.
+\end{enumerate}
+
+Over disyllabic nouns, seven patterns are observed, as shown in \tabref{tab:tonepatternsattestedoverdisyllabicnounsspokeninisolation}. Since lexical roots are \is{monosyllables}monosyllabic, \isi{disyllables} result from various processes, such as addition of the female gender \is{suffixes}suffix /\ipa{-mi˩}/, found in ‘dog’ and ‘sow’ (this \is{suffixes}suffix will be studied in detail in \sectref{sec:thegendersuffixesfacts}). At the present point in the exposition, the aim is to propose a~static inventory including all attested tonal categories of disyllabic nouns, irrespective of their internal structure. 
+
+\begin{table}%[t]
+\caption{Tone patterns attested over disyllabic nouns spoken in isolation.}
+\begin{tabularx}{\textwidth}{ l@{\hspace{7mm}} l@{\hspace{7mm}} Q l }
+  \lsptoprule
+	1\textsuperscript{st} syllable & 2\textsuperscript{nd} syllable & preliminary label & example\\\midrule
+	non"=low & low & M.L ? & /\ipa{dɑ.ʝi}/ ‘mule’\\
+	non"=low & low"=rising & $\ddagger${\kern2pt}M.LM & --\\
+	non"=low & mid"=rising & M.MH ? & /\ipa{hwɤ.li}/ ‘cat’\\
+	non"=low & mid & M.M ? & /\ipa{po.lo}/ ‘ram’\\
+	non"=low & high & M.H ? & /\ipa{hwæ.ʈʂæ}/ ‘squirrel’\\
+	low & low & $\ddagger${\kern2pt}L.L & --\\
+	low & low"=rising & L.LM ? L.LH ? & /\ipa{kʰv̩.mi}/ ‘dog’\\
+	low & mid"=rising & L.MH ? & /\ipa{õ.dv̩}/ ‘wolf’\\
+	low & mid (or high) & L.M ? L.H ? & /\ipa{bo.mi}/ ‘sow’\\
+\lspbottomrule
+\end{tabularx}
+\label{tab:tonepatternsattestedoverdisyllabicnounsspokeninisolation}
+\end{table}
+
+
+\tabref{tab:tonepatternsattestedoverdisyllabicnounsspokeninisolation}
+includes two unattested combinations, marked with a~double dagger ($\ddagger${\kern2pt}) in
+the \textit{preliminary label} column. If the tone of the first syllable is non"=low, there are four observed tonal patterns on the second syllable: low, mid, high, and mid"=rising. If the tone of the first syllable is low, there are three attested patterns on the second syllable: low"=rising, mid, and mid"=rising. 
+
+The restrictions on the distribution of tones on disyllables can be described in static terms as follows. 
+\begin{enumerate}[label=(\roman*), itemsep=0pt]
+%\item[(i)] Only two tones contrast on the first syllable: low and non"=low. There can be no \is{tonal contour}contour on the first syllable. 
+%\item[(ii)] A~Mid tone cannot be followed by a~low"=rising tone.
+%\item[(iii)] A~disyllable cannot be low throughout, any more than a~monosyllable can. 
+%\item[(iv)] There is no contrast between a~low+mid pattern and a~low+high pattern. 
+\item Only two tones contrast on the first syllable: low and non"=low. There can be no \is{tonal contour}contour on the first syllable. 
+\item A~non"=low tone cannot be followed by a~low"=rising tone.
+\item A~disyllable cannot be low throughout. 
+\item There is no contrast between a~low+mid pattern and a~low+high pattern. 
+\end{enumerate}
+
+There are also strong limitations on tone patterns over three syllables: only twelve patterns are attested. The data in \tabref{tab:tonepatternsattestedovertrisyllabicnounsspokeninisolation} is from \is{trisyllables}trisyllabic nouns whose degrees of lexical integration differ even more from one another than those of the disyllables in \tabref{tab:tonepatternsattestedoverdisyllabicnounsspokeninisolation}. The \is{trisyllables}trisyllabic nouns in \tabref{tab:tonepatternsattestedovertrisyllabicnounsspokeninisolation} range from transparent compounds, such as ‘Year of the Dragon’ and ‘Year of the Snake’, to fully indecomposable words, such as ‘lips’. (A hyphen is placed between the two parts of decomposable compounds.) In the same way as for disyllables, the focus here is on the static inventory; the rules relating the tones of compounds to those of their components will be analyzed later (in Chapter~\ref{chap:compoundnouns}).
+
+\begin{table}%[t]
+\caption{Tone patterns attested over {trisyllabic} nouns spoken in isolation.}
+\begin{tabularx}{\textwidth}{ l l l Q l Q }
+  \lsptoprule
+	1\textsuperscript{st} σ & 2\textsuperscript{nd} σ & 3\textsuperscript{rd} σ & preliminary label & example & meaning\\\midrule
+	non"=low & mid & mid & M.M.M ? & \ipa{ɖʐɤ.qʰwɤ.ʈʂe} & awl\\
+	non"=low & mid & low & M.M.L ? & \ipa{mv̩.gv̩-kʰv̩}̩ & Year of the Dragon\\
+	non"=low & mid & high & M.M.H ? & \ipa{njo.bi.li} & lips\\
+	non"=low & mid & mid"=rising & M.M.MH ? & \ipa{bv̩.ʐv̩-kʰv̩} & Year of the Snake\\
+	non"=low & low & low & M.L.L ? & \ipa{mo.jo.mi} & owl\\
+	non"=low & high & low & M.H.L ? & \ipa{æ.tse.pʰæ} & kneebone\\
+	low & low & mid & L.L.M ? & \ipa{tʰo.kʰv̩.mi} & male dog\\
+	low & low & low"=rising & L.L.LM ? & \ipa{dʑɯ.nɑ.mi} & wilderness\\
+	low & mid & mid & L.M.M ? & \ipa{tʰɑ.ʐwæ.mi} & donkey\\
+	low & mid & high & L.M.H ? & \ipa{æ.li.pʰæ} & mirror\\
+	low & mid & mid"=rising & L.M.MH ? & \ipa{bi.pʰv̩-dʑɯ} & flood\\
+	low & mid & low & L.M.L ? & \ipa{bæ.bv̩-bv̩} & ladybird\\
+\lspbottomrule
+\end{tabularx}
+\label{tab:tonepatternsattestedovertrisyllabicnounsspokeninisolation}
+\end{table}
+
+
+
+Since there is a~three"=way opposition in tonal levels on the second syllable, these three levels are labelled as ‘low’, ‘mid’ and ‘high’, whereas for the first syllable, where there is no opposition between mid and high, the two levels are simply labelled ‘low’ and ‘non"=low’.
+
+In view of the information in Tables \ref{tab:tonepatternsattestedovermonosyllabicnounsspokeninisolation}-\ref{tab:tonepatternsattestedovertrisyllabicnounsspokeninisolation}, the following generalizations can be proposed: 
+\begin{enumerate}[label=(\roman*), itemsep=0pt]
+\item A~non"=low tone can be followed by one of four tones: low, mid, high, or mid"=rising. 
+\item A~low tone can be followed by low, low"=rising, mid, or mid"=rising. 
+\item A~high tone can only be followed by a~low tone.
+\item	Non"=final syllables never carry a~\is{tonal contour}contour. 
+\item	An entire word cannot carry low tone on all of its syllables. L.L.L is not permitted in \is{trisyllables}{trisyllabic} nouns, any more than L.L in disyllabic nouns and L in monosyllabic nouns, even though L.L is found in syllable 1 and 2 positions in some \is{trisyllables}{trisyllabic} nouns, and also in syllable 2 and 3 positions in some other \is{trisyllables}{trisyllabic} nouns.
+\item	There can never be a~trough: a~tone surrounded by higher tones (non"=low followed by low followed by mid, for instance). 
+\end{enumerate}
+
+From the above data alone, it is not yet possible to know whether these generalizations concern the
+level of the word, the phrase, or entire sentences, since “words produced \is{form!in isolation|textbf}in isolation are minimal
+utterances showing both lexical and utterance"=level (post"=lexical) features”
+\citep[164]{himmelmann2006}. To preview the results of later analysis, the relevant domain is a~unit between the word and the utterance, which could be called a~phonological phrase. The term adopted here is \textit{tone group} because the defining characteristic
+of this phonological unit is that it serves as the domain of tonal processes. Tone groups are discussed in detail in Chapter~\ref{chap:toneassignmentrulesandthedivisionoftheutteranceintotonegroups}.
+
+A dynamic approach to the tone categories of nouns sheds light on the above generalizations about static
+inventories. 
+
+
+\section{A dynamic view, bringing out the tonal categories}
+\label{sec:dynamicview}
+
+A dynamic view brings out six tonal categories for \is{monosyllables}monosyllabic nouns, and eleven categories for \is{disyllables}disyllabic nouns. While reading through this section, the reader may want to make an~occasional
+leap forward to \tabref{tab:thelexicaltonesofmonosyllabicanddisyllabicnouns}, which presents a~synthetic overview of the full picture of the tone system for nouns as it finally emerges from the analysis. This table is also reproduced in the ‘Quick reference’ section at the beginning of this volume.
+
+\subsection{Monosyllabic nouns: Six tonal categories}
+\label{sec:monosyllabicnouns}
+
+It was mentioned above that there are three patterns for \is{monosyllables}monosyllables spoken \is{form!in isolation}in isolation:
+low"=rising; non"=low; and mid"=rising. The set of nouns realized as non"=low \is{form!in isolation}in isolation is not
+homogeneous, however. Take, for example, the behaviour of /\ipa{jo}/ ‘sheep’, /\ipa{ʐwæ}/ ‘horse’ and /\ipa{lɑ}/ ‘tiger’, all of
+which are realized with a~non"=low tone \is{form!in isolation}in isolation. In association with the \isi{copula}, these yield:
+/\ipa{jo˩ ɲi˩˥}/ ‘is \mbox{(a/the)} sheep’, with low tone on the noun and rising tone on the \isi{copula}; /\ipa{ʐwæ˧ ɲi˥}/ ‘is
+(a/the) horse’, with mid tone on the noun and high tone on the \isi{copula}; and /\ipa{lɑ˧ ɲi˩}/ ‘is \mbox{(a/the)}
+tiger’, with mid tone on the noun and low tone on the \isi{copula}. Since the morphosyntactic context is
+the same,\footnote{To preview the results of analyses set out further below, in \sectref{sec:thelexicaltonesofverbs}, the {copula} carries a~lexical L tone. In isolation, it surfaces with a~rising tone, analyzed as LH.} these three words must be considered to be representatives of three different lexical
+tone categories. These three tone categories all \is{neutralization}neutralize to non"=low when the noun is spoken \is{form!in isolation}in isolation.
+
+The set of nouns realized as low"=rising \is{form!in isolation}in isolation, such as /\ipa{ʐæ}/ ‘leopard’ and /\ipa{bo}/ ‘pig’, is not homogeneous either. Although differences do not surface in combination with the \isi{copula}, as they do for non"=low nouns, in other contexts, 
+such as object"=plus"=verb combinations, /\ipa{ʐæ}/ ‘leopard’ and /\ipa{bo}/ ‘pig’ have different behaviours. For
+example, ‘has bought leopards’ is /\ipa{ʐæ˩ hwæ˧-ze˩}/, with a~L tone on the {perfective} suffix /\ipa{-ze}/,
+whereas ‘has bought pigs’ is /\ipa{bo˩ hwæ˧-ze˧}/, with M tone on the suffix.
+
+Out of the three surface\is{form!surface} patterns on monosyllables \is{form!in isolation}in isolation, only one (MH) corresponds to
+a~single phonological set: all the words realized with MH tone \is{form!in isolation}in isolation have the same tone
+pattern in a~given morphosyntactic context. The two others constitute the \isi{neutralization} of
+two or more lexical categories: the low"=rising \is{tonal contour}contour corresponds to two lexical categories, and the
+non"=low tonal realization corresponds to three categories (see \tabref{tab:thelexicaltonesofmonosyllabicnouns}). To sum up, a~dynamic view brings out six tonal
+categories of monosyllables.
+
+
+\subsection{Disyllabic nouns: Eleven tonal categories}
+\label{sec:disyllabicnouns}
+
+The same procedure as above was also applied to \is{disyllables}disyllabic nouns, i.e.\ looking at the behaviour of
+nouns in different morphosyntactic contexts, in order to find out how many tone categories need to be
+distinguished.
+
+It was discovered that the nouns realized with a~M.M pattern \is{form!in isolation}in isolation belong to two distinct
+categories: one after which the \isi{copula} carries L tone, and one after which the \isi{copula} carries H tone. One
+set is illustrated by /\ipa{po˧lo˧}/ ‘ram’, /\ipa{po˧lo˧ ɲi˩}/ ‘is \mbox{(a/the)} ram’. The other is illustrated by
+/\ipa{ʐwæ˧zo˧}/ ‘colt’, /\ipa{ʐwæ˧zo˧ ɲi˥}/ ‘is \mbox{(a/the)} colt’.
+
+Likewise, the nouns realized with a~M.H pattern \is{form!in isolation}in isolation make up two distinct sets, the one
+illustrated by /\ipa{kv̩˧ʂe˥}/ ‘flea’, /\ipa{kv̩˧ʂe˧ ɲi˥}/ ‘is \mbox{(a/the)} flea’, the other by /\ipa{hwæ˧ʈʂæ˥}/ ‘squirrel’,
+/\ipa{hwæ˧ʈʂæ˥ ɲi˩}/ ‘is \mbox{(a/the)} squirrel’.
+
+Finally, the nouns realized with a~L.M pattern \is{form!in isolation}in isolation (which could also be transcribed as L.H:
+there is no opposition between a~L.M pattern and a~L.H pattern, as mentioned above) fall into no
+fewer than three categories. These three categories are brought out by intersecting evidence from two
+contexts: with a~following \isi{copula}, and with a~following \isi{possessive}, as shown in \tabref{tab:examplesillustratingtheexistenceofthreetonecategoriesneutralizedtolminisolation}. Addition of the \isi{copula} sets apart a~category exemplified by the Na word for ‘{Naxi}’, after which the \isi{copula} receives H
+tone. Addition of the \isi{possessive} sets apart a~category exemplified by ‘boar’, which depresses the tone
+of the \isi{possessive} to L, as opposed to its realization as M for the other words. While the evidence
+used to bring out the tone categories is morphotonological (looking at the behaviour of nouns in
+context), the tone categories are lexical, since the difference in the
+surface phonological\is{form!surface} tone strings shown in \tabref{tab:examplesillustratingtheexistenceofthreetonecategoriesneutralizedtolminisolation} must be ascribed to a~difference between the
+lexical items at issue, and hence, to a~difference in lexical tone category.
+
+In total, this yields eleven tonal categories of disyllables.
+
+\begin{table}[t]
+\caption{Examples illustrating the existence of three tone categories of nouns neutralized to L.M in isolation.}
+\begin{tabularx}{.85\textwidth}{ Q l@{\hspace{7mm}} Q l }
+  \lsptoprule
+	in isolation & meaning & with \isi{copula} & with \isi{possessive}\\\midrule
+	/\ipa{nɑ˩hĩ˧}/ & {Naxi} & \ipa{nɑ˩hĩ˧ ɲi˥} & \ipa{nɑ˩hĩ˧=bv̩˧}\\
+	/\ipa{bo˩mi˧}/ & sow & \ipa{bo˩mi˧ ɲi˩} & \ipa{bo˩mi˧=bv̩˧}\\
+	/\ipa{bo˩ɬɑ˧}/ & boar & \ipa{bo˩ɬɑ˧ ɲi˩} & \ipa{bo˩ɬɑ˧=bv̩˩}\\
+\lspbottomrule
+\end{tabularx}
+\label{tab:examplesillustratingtheexistenceofthreetonecategoriesneutralizedtolminisolation}
+\end{table}
+
+\section[Phonological analysis]{Phonological analysis of the tone categories of nouns}
+\label{sec:aphonologicalanalysisofthetonecategoriesofnouns}
+
+As reported in the preceding paragraphs, a~number of tonal categories were brought out on the basis
+of their different behaviour in various morphosyntactic contexts. The phonological analysis of these
+categories is up against an~issue of circularity, since the tone categories of the simplest units~--
+\is{monosyllables}monosyllabic nouns~-- can only come to light through examination of their combinations with various other
+morphemes whose tone categories, at this stage, have not been analyzed either. In practice, however,
+bootstrapping is often required when analyzing a~new language variety: groping for a~correct
+analysis by trial and error.
+
+A step forward in the analysis of the tones of nouns was made possible by progress in the analysis
+of the tones of other morphemes. Through an~analytic process set out further below, it was realized
+that the \isi{copula} carried lexical L tone, and that the \isi{possessive} carried lexical M tone. On this basis, it became possible to propose a~phonological analysis
+for each of the tone categories of nouns.
+
+The two tonal categories of nouns illustrated by /\ipa{lɑ˧ ɲi˩}/ ‘is \mbox{(a/the)} tiger’ and /\ipa{ʐwæ˧ ɲi˥}/ ‘is
+(a/the) horse’ were analyzed as follows. In the first case, the \isi{copula} surfaces with its own
+lexical tone. ‘Tiger’ represents the simplest case, analyzed as having lexical M tone, a~phonological tone
+identical with the surface tone in this context. (The same analysis is proposed for the category
+of disyllables illustrated by /\ipa{po˧lo˧}/ ‘ram’.) In the second case, ‘horse’, the \isi{copula} surfaces with
+a~H tone which must be supposed to be projected onto it by the noun. ‘Horse’, therefore, exemplifies
+a~tone category characterized by a~H tone which can only surface on a~following syllable: a~floating
+H tone. This phenomenon warrants a~separate subsection to explain the motivation for using this label.
+
+
+\subsection{A floating H tone}
+\label{sec:afloatinghtonewithcomparativeevidencepointingtoitsorigin}
+
+% Indexing whole subsection for 'floating tone'
+\is{floating tone|(}
+% Indexing this page in bold for 'floating tone', as it provides the definition
+\is{floating tone|textbf}
+
+\subsubsection{Theoretical backdrop: a~quick introduction to floating tones}
+\label{sec:backdropfloating}
+
+Floating tones, sometimes called vowelless tones \citep[84]{goldsmith2002}, are entities postulated to explain categorical modifications of the tonal string. Floating tones do not surface directly, but affect the tones of neighbouring morphemes. For instance, the definite article in Bamana (\ili{Mande} subgroup of {Niger"=Congo}) has a~floating L tone as its signifier, illustrated in (\ref{ex:bamanaSANS}-\ref{ex:bamana}). The examples are reproduced as (\ref{ex:bamanaSANSafr}) and (\ref{ex:bamanaafr}) with tone indicated by means of accents; equivalents using \is{tone letters}tone letters are provided as (\ref{ex:bamanaSANSchao}) and (\ref{ex:bamanachao}).
+
+\begin{exe}
+  \ex
+  \label{ex:bamanaSANS}
+  \begin{xlist}
+  	\ex
+  	\label{ex:bamanaSANSafr}
+  	\gll Mùsò tɛ́ yàn\\
+  	woman \textsc{neg}.be here\\
+  	\glt	‘There is no woman/there are no women here.’
+  	\ex
+  	\label{ex:bamanaSANSchao}
+  	\gll Mu˩so˩ tɛ˥ yan˩\\
+  	woman \textsc{neg}.be here\\
+  	\glt	‘There is no woman/there are no women here.’
+  \end{xlist}	
+\end{exe}
+
+\begin{exe}
+  \ex
+  \label{ex:bamana}
+  \begin{xlist}
+	\ex
+	\label{ex:bamanaafr}
+	\gll Mùsó-~{\kern2pt}\char"0300 tɛ́ yàn\\
+	woman-\textsc{art} \textsc{neg}.be here\\
+	\glt	‘The woman is not here.’
+	\ex
+	\label{ex:bamanachao}
+	\gll Mu˩so˥-~{\kern2pt}˩ tɛ˥ yan˩\\
+	woman-\textsc{art} \textsc{neg}.be here\\
+	\glt	‘The woman is not here.’
+  \end{xlist}	
+\end{exe}
+
+%Tests to obtain the symbol for L tone. Much trouble with the grave accent, interpreted by XeLaTeX as a~quotation mark.
+%\ipa{Mùsó-~\char"02CB tɛ́ yàn}\\
+%\ipa{Mùsó-~\char"0300 tɛ́ yàn}\\
+%\ipa{Mùsó-~\char"2035 tɛ́ yàn}\\
+%\ipa{Mùsó-~\char"F195 tɛ́ yàn}\\
+
+In (\ref{ex:bamana}), there is ample evidence of the presence of a~floating L tone: it is manifested through two phonological phenomena. First, contact between the L tone of the noun ‘woman’ and the floating L tone of the definite article results in the addition of a~H tone at the end of the noun, due to a~general rule inserting a~buffer high tone between two low tones, hence /\ipa{mùsó}/ (L.H) instead of /\ipa{mùsò}/ (L.L). Second, the floating L tone triggers downstep\footnote{\is{downstep|textbf}Downstep is a~distinctive lowering of tone; about the history of this notion, see \citet{rialland1997}. Downstep is not indicated in the example transcript, because it is a~phonological consequence of the presence of a~floating L tone. Alternatively, one could transcribe the {downstep} (the usual convention is as an~exclamation mark) instead of the floating L: /\ipa{Mùsó !tɛ́ yàn}/.} because the following morpheme, the negation marker /\ipa{tɛ́}/, carries H tone.\footnote{An alternative analysis of the Bamana facts, following \citet[24-25]{dumestre1987}, is that the tone change is from L.H.H to L.L.H, rather than from L.L.L to L.H.L. Assuming that the category of nouns exemplified by /\ipa{mùsó}/ ‘woman’ has a~lexical LH pattern simplifies the analysis of trisyllables. So the underlying and surface tones of ‘woman’ in (\ref{ex:bamana}) would be the same (LH), whereas a~change from the underlying form to the surface form would be hypothesized to occur in (\ref{ex:bamanaSANS}). However, this has no bearing on the analysis of floating tones: all authors agree that the floating tone does trigger {downstep} of the following H in (\ref{ex:bamana}).} 
+
+\is{comparative method (historical linguistics)}Comparative evidence typically reveals that floating tones originate in the reduction (complete segmental ellipsis) of a~syllable. The Bamana article is considered to originate in *\ipa{-ò}; the full form (a vowel and a~tone) “is still attested in numerous varieties spoken on the geographic periphery of the \il{Mande}Manding area: {Mandinka}, Xasonka, Worodugukan, Marka"=Dafin, some Kagoro dialects” \citep{vydrin2016}. 
+
+A~purely tonal morpheme occurs when a~morpheme that was segmentally expressed, as a~syllable carrying a~tone, is reduced to a~mere tone, and is only manifested through its association with another morpheme. This is not the only scenario, however: a~morpheme can acquire a~floating tone through the loss (complete segmental ellipsis) of one of its syllables. For instance, disyllabic verbs are postulated for earlier states of the Igbo language; later “the syllabicity of the final syllables is lost, leaving floating tones, which ({\dots}) shift to the left and knock the first tones off in front of the verb morpheme” \citep[94]{hymanetal1974}. 
+
+Concerning the choice of terms, \citet[424]{voorhoeve1967} used the labels “presegmental tonemes” and “postsegmental tonemes”. He was still looking for an~adequate cover term for both sets, and seems to have been aware of the awkwardness of the pleonastic label “nonsegmental tonemes”, which he grazed (but avoided) by using “nonsegmental H and L”. He put forward the notion of \textit{floating tones} in \citeyear{voorhoeve1971}. In the early 1970s, tonologists still felt that it was necessary to enclose this recently coined term in quotation marks at first occurrence, as in the following commentary about Fe’Fe’ (\ili{Bantu}, Niger"=Congo): 
+
+\begin{quotation}
+	[In the word ‘pot’ /\ipa{cὰg~ ́}/] an earlier high tone {suffix} was present. Historically, there was an accompanying vowel, but synchronically, a~mere “{floating}” high tone is posited. ({\dots})~[T]his high tone causes the preceding L tone to raise to a~raised"=low tone via the process of low"=raising. \citep[86]{hymanetal1974}
+\end{quotation}
+
+The term gradually caught on, and is currently standard in \ili{Bantu} studies \citep[see e.g.][33]{franichetal2012}.
+
+%\begin{quotation}
+%	In  most  Grassfields languages [a subgroup of \ili{Bantu}], the segmental morphology has been greatly simplified. In the historical development of the Grassfields languages, many of the lost segments and syllables have given rise to what are known in 
+%	this  literature  as  “floating  tones”.  The  tones  originally  linked  to  the  lost  syllables  and  segments 
+%	persisted  and  morphed  into  the  current  tonal  systems.  In  some  Grassfields  languages,  these  floating 
+%	tones  have  largely  been  lost.  However,  in  others,  such  as  Medumba,  they  are  still  robust. \citep[33]{franichetal2012}
+%\end{quotation}
+
+Carry-over of the notion of floating tone to one of the lexical H tone categories of Yongning Na is motivated by the fact that the Na tone at issue is never realized over the word to which it is lexically attached: this H tone can only be \is{anchorage}anchored to a~following morpheme. “Floating tone” is used in the present volume as a~synchronic concept, “the concept of \textit{floating} having here the meaning of non"=realised tones in an {isolated context}” \citep[61]{some2000}. 
+
+An~important caveat is that the use of this concept borrowed from the field of \ili{Bantu} tone studies does not imply the same {diachronic} analysis as proposed for floating tones in \ili{Bantu}, where all floating tones are assumed to originate in the segmental ellipsis of a~syllable. Floating tones in \ili{Bantu} result from the loss of segmental materials that were formerly present; by contrast, in Yongning Na, {comparative evidence} (set out in \sectref{sec:thefloatinghtoneofyongningnacorrespondstoanoverthtoneinneighbouringdialects}) suggests that the evolutionary mechanism at play was different.  
+
+\subsubsection{The synchronic facts about the floating tone in Yongning Na}
+\label{sec:thesynchronicfacts}
+
+An~example illustrating the floating H tone category of the Alawa dialect of Yongning Na is the {monosyllable} for ‘horse’, realized \is{form!in isolation}in isolation as /\ipa{ʐwæ˧}/. The word for ‘colt’, realized \is{form!in isolation}in isolation as /\ipa{ʐwæ˧zo˧}/, offers a~neat opportunity to extend the analysis to
+disyllables: the H tone that appears in /\ipa{ʐwæ˧zo˧ ɲi˥}/ ‘is \mbox{(a/the)} colt’ is interpreted as reflecting
+the floating H tone lexically attached to the noun ‘colt’, in a~way that is exactly parallel to
+/\ipa{ʐwæ˧ ɲi˥}/ ‘is \mbox{(a/the)} horse’.\footnote{Noun"=plus"={copula} combinations behave tonally like
+  object"=verb combinations, of which a~detailed account is presented in Chapter~\ref{chap:verbsandtheircombinatoryproperties}. The rules
+  yielding the surface phonological tone pattern are syntactically conditioned: not all
+  combinations of a~\#H tone and a~L tone yield a \mbox{/M{\dots}M.H/} sequence.}
+
+Since this floating H tone is the only type of H tone that may be lexically attached to
+a~{monosyllable}, it is convenient to transcribe it as a~simple H tone on monosyllabic nouns in the
+dictionary and in examples within this volume: e.g.~‘horse’ is transcribed as //\ipa{ʐwæ˥}//. (The double slashes are used in this volume to distinguish underlying phonological forms from surface phonological ones.) For
+disyllables, however, there is an~opposition between this floating H tone and a~word"=final H tone
+(as in /\ipa{hwæ˧ʈʂæ˥}/ ‘squirrel’). This complexity of syllabic {anchoring} makes it necessary to use
+a~nonstandard symbol: a~symbol not used in the International Phonetic Alphabet. Desperate tones call
+for desperate measures. The pound symbol \# was chosen to stand for the end of
+a~lexical word, adopting a~notation of the word as /\ipa{ʐwæ˧zo\#˥}/, and of the tonal category as \#H.
+
+To repeat this important point with another example, the \#H-tone word ‘little brother’ and the
+M-tone word ‘little sister’ have the same tonal pattern \is{form!in isolation}in isolation (M on both syllables: /\ipa{gi˧zɯ˧}/
+‘little brother’, /\ipa{go˧mi˧}/ ‘little sister’), but the former yields /\ipa{gi˧zɯ˧ ɲi˥}/ ‘is little
+brother’ (tone sequence: M.M+H), the latter /\ipa{go˧mi˧ ɲi˩}/ ‘is little sister’ (tone sequence:
+M.M+L). The analysis proposed is that ‘little brother’ has a~final H tone which remains unassociated
+unless it can associate to a~following syllable: a~H tone that is floating at the end of the
+word. The association of this floating H tone requires specific morphosyntactic conditions. For
+instance, the H tone does not surface when the noun is followed by the {possessive} clitic /\ipa{=bv̩˧}/: thus, \ipa{gi˧zɯ˧=bv̩˧}/ ‘of \mbox{(a/the)} little brother’ is tonally identical to /\ipa{go˧mi˧=bv̩˧}/
+‘of \mbox{(a/the)} little sister’.\footnote{Whether the floating H tone surfaces or not in a~given context is not simply an issue of syntactic class of the added morpheme. To preview data set out in \sectref{sec:ltoneencliticspluralandassociativeplural}, another clitic, the \textsc{collective}, \textit{can} host a~floating tone. Such complexities explain why tone in Yongning Na requires a~book"=length description and analysis.}
+
+
+\subsubsection[The floating tone corresponds to an~overt H in neighbouring dialects]{The floating H tone of Alawa corresponds to an~overt H tone in two neighbouring dialects}
+\label{sec:thefloatinghtoneofyongningnacorrespondstoanoverthtoneinneighbouringdialects}
+
+Observations on a~neighbouring dialect, that of the village of /\ipa{pʰv̩˧dʑo\#˥}/ (in Chinese: Labai \zh{拉伯村}), offers indirect supporting evidence for the H tone postulated for the tonal
+category of the Alawa dialect illustrated by ‘horse’. My only contact with the Labai dialect so far has been through two
+work sessions with Mr. Lamu Gatusa \zh{拉木·嘎吐萨}, a~researcher at the Academy of Social Sciences in Kunming. The monosyllables of Alawa analyzed as having a~(floating) H tone correspond to monosyllables
+with H tone in Labai. Examples are presented in \tabref{tab:hhtonecorrespondence}. When one of the \#H-tone words in \tabref{tab:hhtonecorrespondence} is spoken \is{form!in isolation}in isolation, its H tone does not surface (\mbox{//M//} and \mbox{\mbox{//\#H//}} are neutralized to /M/), whereas H-tone items are realized as such in Labai. The \#H::H \is{comparative method (historical linguistics)}correspondence among monosyllables is the tonal \is{comparative method (historical linguistics)}correspondence that has the most
+examples. The only \is{exceptions}exception is (in the order Alawa::Labai) \ipa{hæ̃˩::hæ̃˥}
+for ‘gold’ (shown at bottom of \tabref{tab:hhtonecorrespondence}), for which no explanation can be offered at present. For the sake of completeness, \tabref{tab:mmtonecorrespondence} shows the correspondences for syllables carrying M tone in Labai. (A
+recording of some of the words is available online from the Pangloss Collection; the title of the
+resource is: M28\_Vocabulary.) Importantly, all the monosyllables that belong to the M tone category in
+Alawa correspond to M-tone monosyllables in Labai. 
+
+\begin{subtables}
+	\begin{table}
+	  \caption{Tone correspondences between Alawa and Labai for monosyllabic nouns carrying H tone in Labai.}
+	\begin{tabularx}{\textwidth}{   l@{\hspace{10mm}} l l   l@{\hspace{10mm}}   l@{\hspace{15mm}} }
+	  \lsptoprule
+	%	gloss & \pbox{20cm}{Yongning:\\ /\is{form!in isolation}in isolation/} & \pbox{20cm}{Yongning:\\  //underlying form//} & Labai\\
+		gloss & 	\multicolumn{2}{c}{Alawa} & Labai & {correspondence}\\
+		& /in isolation/ &  //lexical form// & &\\
+		\midrule
+		earth & \ipa{ʈʂe˧} & \ipa{ʈʂe\#˥} & \ipa{tɕi˥} & \#H::H\\
+		hail & \ipa{dzo˧} & \ipa{dzo\#˥} & \ipa{dzo˥} & \#H::H\\
+		sky & \ipa{mv̩˧} & \ipa{mv̩\#˥} & \ipa{mv̩˥} & \#H::H\\
+		fire & \ipa{mv̩˧} & \ipa{mv̩\#˥} & \ipa{mi˥} & \#H::H\\
+		star & \ipa{kɯ˧} & \ipa{kɯ\#˥} & \ipa{kɯ˥} & \#H::H\\
+		snow & \ipa{bi˧} & \ipa{bi\#˥} & \ipa{mbi˥} & \#H::H\\
+		pond & \ipa{ɖwæ˧} & \ipa{ɖwæ\#˥} & \ipa{ɳɖwæ˥} & \#H::H\\
+		canal & \ipa{qʰæ˧} & \ipa{qʰæ\#˥} & \ipa{qʰæ˥} & \#H::H\\
+		urine & \ipa{dʑɯ˧} & \ipa{dʑɯ\#˥} & \ipa{ɳɖʐɯ˥} & \#H::H\\
+		gall & \ipa{kɯ˧} & \ipa{kɯ\#˥} & \ipa{kɯ˥} & \#H::H\\
+		blood & \ipa{sɤ˧} & \ipa{sɤ\#˥} & \ipa{sɤ˥} & \#H::H\\
+		head & \ipa{ʁo˧} & \ipa{ʁo\#˥} & \ipa{ʁo˥} & \#H::H\\
+		\ili{Pumi} & \ipa{bɤ˧} & \ipa{bɤ\#˥} & \ipa{bɤ˥} & \#H::H\\
+		man & \ipa{zo˧} & \ipa{zo\#˥} & \ipa{zo˥} & \#H::H\\
+		bronze & \ipa{æ̃˧} & \ipa{æ̃\#˥} & \ipa{æ˥} & \#H::H\\
+		salt & \ipa{tsʰe˧} & \ipa{tsʰe\#˥} & \ipa{tsʰe˥} & \#H::H\\
+			\midrule
+			%			\addlinespace \hdashline \addlinespace
+		gold & \ipa{hæ̃˧} & \ipa{hæ̃˩} & \ipa{hæ̃˥} & ~L::H\\ 
+	   \lspbottomrule
+	\end{tabularx}
+	\label{tab:hhtonecorrespondence}
+	\end{table}
+	
+	\begin{table}[t]
+		\caption{Tone correspondences between Alawa and Labai for monosyllabic nouns carrying M tone in Labai.}
+		\begin{tabularx}{\textwidth}{  l@{\hspace{17mm}} l@{\hspace{10mm}} Q l@{\hspace{15mm}} }
+			\lsptoprule
+			%	gloss & \pbox{20cm}{Yongning:\\ /\is{form!in isolation}in isolation/} & \pbox{20cm}{Yongning:\\  //underlying form//} & Labai\\
+			gloss & Alawa & Labai & tone {correspondence}\\
+			\midrule
+	%		hail & \ipa{dzo\#˥} & \ipa{dzo˥} & M::M\\
+			small dike & \ipa{bo˧} & \ipa{mbu˧} & M::M\\
+			intestine & \ipa{bv̩˧} & \ipa{bv̩˧} & M::M\\
+			dew & \ipa{ɖʐv̩˧} & \ipa{ɳɖʐɯ˧} & M::M\\
+			wind & \ipa{hæ̃˧} & \ipa{hæ̃˧} & M::M\\
+			tobacco & \ipa{jɤ˧} & \ipa{jɤ˧} & M::M\\
+			field & \ipa{lv̩˧} & \ipa{lv̩˧} & M::M\\
+			wound & \ipa{mi˧} & \ipa{mi˧} & M::M\\
+			hole & \ipa{qʰv̩˧} & \ipa{qʰɚ˧} & M::M\\
+			serf & \ipa{wɤ˧} & \ipa{wɤ˧} & M::M\\
+			liquor/spirits & \ipa{ʐɯ˧} & \ipa{ʐɯ˧} & M::M\\
+	%		sky & \ipa{mv̩\#˥} & \ipa{mv̩˥} & M::M\\ 
+			\midrule
+			%			\addlinespace \hdashline \addlinespace
+			water & \ipa{dʑɯ˩} & \ipa{ɖʐɯ˧} & L::M\\
+			lake & \ipa{hi˩} & \ipa{hɯ˧} & L::M\\
+			thread & \ipa{kʰɯ˩} & \ipa{kʰɯ˧} & L::M\\
+			silver & \ipa{ŋv̩˩} & \ipa{ŋv̩˧} & L::M\\
+			bridge & \ipa{dzo˩} & \ipa{ndzo˧} & L::M\\
+			iron & \ipa{ʂe˩} & \ipa{ɕi˧} & L::M\\
+			\midrule
+%			\addlinespace \hdashline \addlinespace
+			bone & \ipa{ɻ̍̃˥} & \ipa{ɚ̃˧} & H::M\\
+			pond & \ipa{ɖwæ˥} & \ipa{ɳɖwæ˧} & H::M\\
+			rib & \ipa{ɬo˥} & \ipa{hõ˧} & H::M\\ 
+			\midrule
+			%			\addlinespace \hdashline \addlinespace
+			earth & \ipa{di˩˥} & \ipa{di˧} & LH::M\\ 
+			rain & \ipa{hi˩˥} & \ipa{hɯ˧} & LH::M\\
+	
+	%		canal & \ipa{qʰæ\#˥} & \ipa{qʰæ˥}\\
+	%		urine & \ipa{dʑɯ\#˥} & \ipa{ɳɖʐɯ˥}\\
+	%		gall & \ipa{kɯ\#˥} & \ipa{kɯ˥}\\
+	%		blood & \ipa{sɤ\#˥} & \ipa{sɤ˥}\\
+	%		head & \ipa{ʁo\#˥} & \ipa{ʁo˥}\\
+	%		\ili{Pumi} & \ipa{bɤ\#˥} & \ipa{bɤ˥}\\
+	%		man & \ipa{zo\#˥} & \ipa{zo˥}\\
+	%		bronze & \ipa{æ̃\#˥} & \ipa{æ˥}\\
+	%		salt & \ipa{tsʰe\#˥} & \ipa{tsʰe˥}\\
+			\lspbottomrule
+		\end{tabularx}
+		\label{tab:mmtonecorrespondence}
+	\end{table}
+\end{subtables}
+
+On disyllables, the floating H tones of Alawa also correspond to H tones in Labai: disyllables that
+have \#H tone in Alawa have a~H tone on their second syllable in Labai. Disyllables that
+have M tone in Alawa likewise carry M tone on both of their syllables in Labai. Some examples are
+provided in
+\tabref{tab:mmandhmhtonecorrespondences}.
+
+
+\begin{table}%[p]
+\caption{Examples illustrating the M::M and \#H::MH tone correspondences for disyllabic nouns between Alawa and Labai.}
+\begin{tabularx}{\textwidth}{ l Q@{\hspace{8mm}} Q Q }
+  \lsptoprule
+	{correspondence} & meaning & Alawa & Labai\\ \midrule
+	M::M & little sister & \ipa{go˧mi˧} & \ipa{go˧mi˧}\\
+	& ancestor & \ipa{ə˧pʰv̩˧} & \ipa{ə˧pʰə˞{\kern1.7pt}˧}\\
+	& Bai & \ipa{ɬi˧bv̩˧} & \ipa{li˧bv̩˧}\\
+	& mother & \ipa{ə˧mi˧} & \ipa{ə˧mi˧}\\
+	& body & \ipa{gv̩˧mi˧} & \ipa{gv̩˧mv̩˧}\\
+	& heel & \ipa{mv̩˧ʈʰɯ˧} & \ipa{mi˧ʈʰɯ˧}\\
+	& thigh & \ipa{do˧bæ˧} & \ipa{do˧bæ˧}\\
+	& buttock & \ipa{do˧bv̩˧} & \ipa{do˧bv̩˧}\\
+	& nostril & \ipa{ɲi˧qʰv̩˧} & \ipa{ɲi˧qʰə˞{\kern1.7pt}˧}\\
+	& back & \ipa{gv̩˧dv̩˧} & \ipa{gv̩˧dv̩˧}\\
+	& breast & \ipa{ʁɑ˧pv̩˧} & \ipa{ŋgɑ˧pv̩˧}\\
+	& belly & \ipa{bi˧mi˧} & \ipa{bi˧mi˧}\\
+	& plait & \ipa{hæ̃˧pɤ˧} & \ipa{hæ̃˧pɤ˧}\\
+	& sun & \ipa{ɲi˧mi˧} & \ipa{ɲi˧mi˧}\\
+	& moon & \ipa{ɬi˧mi˧} & \ipa{li˧mi˧}\\
+	& stone & \ipa{lv̩˧mi˧} & \ipa{lv̩˧mi˧}\\
+	& powder & \ipa{tsɑ˧bɤ˧} & \ipa{tsɑ˧mbɑ˧}\\
+	& hot spring & \ipa{ɻ̍˧qʰv̩˧} & \ipa{ə˞{\kern1.7pt}˧qʰə˞{\kern1.7pt}˧}\\
+	& paddy field & \ipa{ɕi˧lv̩˧} & \ipa{ʂɯ˧lv̩˧}\\ \midrule
+	\#H::MH & little brother & \ipa{gi˧zɯ\#˥} & \ipa{gɯ˧zɯ˥}\\
+	& grandson & \ipa{ʐv̩˧v̩\#˥} & \ipa{ʐv̩˧v̩˥}\\
+	& granddaughter & \ipa{ʐv̩˧mi\#˥} & \ipa{ʐv̩˧mi˥}\\
+	& sole & \ipa{mi˧bɤ\#˥} & \ipa{mi˧bɤ˥}\\
+	& nose & \ipa{ɲi˧gɤ\#˥} & \ipa{ɲi˧ŋgɤ˥}\\
+	& craftsman & \ipa{po˧ɖʐɯ\#˥} & \ipa{po˧ɖʐv̩˥}\\
+	& forehead & \ipa{to˧kɤ\#˥} & \ipa{to˧kɤ˥}\\
+	& host & \ipa{dɑ˧pv̩\#˥} & \ipa{ndɑ˧pv̩˥}\\
+\lspbottomrule
+\end{tabularx}
+\label{tab:mmandhmhtonecorrespondences}
+\end{table}
+
+% %Table 6. in manuscript
+% \begin{table}[p]
+% \caption{Examples illustrating the M::M and \#H::MH tone correspondences between Yongning and Labai
+%   on disyllabic nouns.}
+
+% \vspace*{.5\baselineskip}
+% M::M \isi{correspondence}
+% \vspace*{.5\baselineskip}
+
+% \begin{tabularx}{.75\textwidth}{ Q@{\hspace{8mm}} Q Q }
+%   \lsptoprule
+% 	gloss & Yongning & Labai\\ \midrule
+% 	little sister & \ipa{go˧mi˧} & \ipa{go˧mi˧}\\
+% 	ancestor & \ipa{ə˧pʰv̩˧} & \ipa{ə˧pʰə˞˧}\\
+% 	Bai & \ipa{ɬi˧bv̩˧} & \ipa{li˧bv̩˧}\\
+% 	mother & \ipa{ə˧mi˧} & \ipa{ə˧mi˧}\\
+% 	body & \ipa{gv̩˧mi˧} & \ipa{gv̩˧mv̩˧}\\
+% 	heel & \ipa{mv̩˧ʈʰɯ˧} & \ipa{mi˧ʈʰɯ˧}\\
+% 	thigh & \ipa{do˧bæ˧} & \ipa{do˧bæ˧}\\
+% 	buttock & \ipa{do˧bv̩˧} & \ipa{do˧bv̩˧}\\
+% 	nostril & \ipa{ɲi˧qʰv̩˧} & \ipa{ɲi˧qʰə˞˧}\\
+% 	back & \ipa{gv̩˧dv̩˧} & \ipa{gv̩˧dv̩˧}\\
+% 	breast & \ipa{ʁɑ˧pv̩˧} & \ipa{ŋgɑ˧pv̩˧}\\
+% 	belly & \ipa{bi˧mi˧} & \ipa{bi˧mi˧}\\
+% 	plait & \ipa{hæ̃˧pɤ˧} & \ipa{hæ̃˧pɤ˧}\\
+% 	sun & \ipa{ɲi˧mi˧} & \ipa{ɲi˧mi˧}\\
+% 	moon & \ipa{ɬi˧mi˧} & \ipa{li˧mi˧}\\
+% 	stone & \ipa{lv̩˧mi˧} & \ipa{lv̩˧mi˧}\\
+% 	powder & \ipa{tsɑ˧bɤ˧} & \ipa{tsɑ˧mbɑ˧}\\
+% 	hot spring & \ipa{ɻ̍˧qʰv̩˧} & \ipa{ə˞˧qʰə˞˧}\\
+% 	paddy field & \ipa{ɕi˧lv̩˧} & \ipa{ʂɯ˧lv̩˧}\\
+% \lspbottomrule
+% \end{tabularx}
+
+% \vspace*{\baselineskip}
+% \#H::MH \isi{correspondence}
+% \vspace*{.5\baselineskip}
+
+% \begin{tabularx}{.75\textwidth}{ Q@{\hspace{8mm}} Q Q }
+% \lsptoprule
+% 	gloss & Yongning & Labai\\\midrule
+% 	little brother & \ipa{gi˧zɯ\#˥} & \ipa{gɯ˧zɯ˥}\\
+% 	grandson & \ipa{ʐv̩˧v̩\#˥} & \ipa{ʐv̩˧v̩˥}\\
+% 	granddaughter & \ipa{ʐv̩˧mi\#˥} & \ipa{ʐv̩˧mi˥}\\
+% 	sole & \ipa{mi˧bɤ\#˥} & \ipa{mi˧bɤ˥}\\
+% 	nose & \ipa{ɲi˧gɤ\#˥} & \ipa{ɲi˧ŋgɤ˥}\\
+% 	craftsman & \ipa{po˧ɖʐɯ\#˥} & \ipa{po˧ɖʐv̩˥}\\
+% 	forehead & \ipa{to˧kɤ\#˥} & \ipa{to˧kɤ˥}\\
+% 	host & \ipa{dɑ˧pv̩\#˥} & \ipa{ndɑ˧pv̩˥}\\
+% \lspbottomrule
+% \end{tabularx}
+% \label{tab:mmandhmhtonecorrespondences}
+% \end{table}
+
+Another neighbouring dialect, that of the village of Wujiao \zh{屋脚}, just across the border with
+the county of Muli in Sichuan (\zh{四川凉山州木里县屋脚乡}), yields similar correspondences: lexical
+field notes kindly provided in 2012 by Xu Duoduo \zh{许多多}, then a~graduate student at Tsinghua
+University, reveal that words that belong in the \#H tone category in Alawa (neutralized with M \is{form!in isolation}in isolation) have
+an~overt H tone in Wujiao. This H tone is phonetically transcribed by Xu Duoduo as \ipa{⁵³} (high"=to"=mid)
+on the basis of commonly observed realizations \is{form!in isolation}in isolation, but in the absence of a~\ipa{⁵⁵} (high level)
+tone in her notes this can confidently be interpreted as a~H tone. Examples include [\ipa{kʰv̩⁵³}] ‘dog’ (\is{homophony}homophone: ‘to steal’), [\ipa{kv̩⁵³}] ‘garlic’ and [\ipa{hṽ̩⁵³}] ‘hair’. The corresponding words in Alawa are phonologically identical, except that the H tone is floating: //\ipa{kʰv̩\#˥}// ‘dog’, //\ipa{kʰv̩\#˥}// ‘to steal’, //\ipa{kv̩\#˥}// ‘garlic’ and //\ipa{hṽ̩\#˥}// ‘hair’. No {counterexample} has been found.
+
+The above comparisons provide neat confirmation for the H tone category
+independently postulated for the Alawa dialect. Needless to say, the tonal correspondences between
+Alawa, Labai and Wujiao call for a~systematic investigation, based on much more extensive data
+than has been collected so far for Labai and Wujiao. The tone system of Labai warrants an~in"=depth study in its own
+right, and a~detailed comparison with Alawa, Lataddi \citep{dobbsetal2016} and other dialects. The tone system of Wujiao appears at first blush to
+be more similar to that of Alawa, but nonetheless with enough differences to necessitate a~detailed description.
+
+
+\subsubsection{The creation of floating H tones: a~consequence of phonotactic constraints?}
+\label{sec:thecreationoffloatinghtonesaconsequenceofphonotacticconstraints}
+
+The \is{comparative method (historical linguistics)}correspondence between floating H tones in Alawa and overt H tones in Labai raises the issue of
+whether an~earlier overt H tone became floating in Alawa, or conversely, an~earlier floating H
+tone became an~overt H tone in Labai. Cross"=linguistically, the more common scenario is that of
+overt tones being set afloat by changes in metrical structure. For instance, in {Manding} languages
+(\ili{Mande} branch of Niger"=Congo), it has been hypothesized that, at one stage of language history,
+there were heavy syllable rhymes, VV or VN, which could carry up to two tonal levels, and that, at
+a~later stage exemplified by Bambara, the distinction between heavy rhymes and light rhymes was
+lost, and the second tone on former heavy rhymes became floating (on Bambara: \citealt{creisselsetal1993}; see also \citealt{konoshenko2008} on interesting developments in Liberian Kpelle related to the delinking of H in an earlier LH category).
+
+It seems reasonable to hypothesize that in \ili{Naish} languages too the {diachronic} change was from overt tones to floating tones.
+%, but comparison of Alawa and Labai alone does not constitute a~sufficient basis to shed light on the process. A~highly speculative argument is outlined below; it will be necessary to collect more pieces of the {diachronic} jigsaw puzzle before the origin of the floating H tone in Alawa can be understood clearly. 
+A specificity of Alawa, as compared with Labai, is the prohibition of tone"=group"=initial H
+tone. A~consequence of this exceptionless rule is that, at the \is{form!surface}{surface phonological level}, it is
+impossible to have H tone on a~{monosyllable} said \is{form!in isolation}in isolation. Supposing that there used to be a~*H tone on monosyllables, the opposition between tone categories M and H for monosyllables was threatened when the number of possible contrasts over a~group"=initial syllable
+collapsed from three (H, M, L) to two (M, L). Delinking the H tone could be seen as a~response to this threat, preserving the lexical distinctions.\footnote{The argument that H tones are set afloat \textit{in order to preserve lexical distinctions} is to be wielded with great care, since any merger is possible: some phonological oppositions are irreversibly lost in the course of language history. “The linguistic system, with its
+myriad phonetic and semantic pressures effecting changes simultaneously 
+and at times antagonistically, always emerges functionally unscathed, its  
+semantic clarity intact” \citep[697]{silverman2015}. For now, I am content to record the fact that the tonal oppositions were maintained; finding out \textit{why} it was so is much more arduous.}
+
+As for disyllables, supposing that there used to exist nouns carrying a~*H.M pattern, their initial H tone was also affected when the prohibition against tone"=group"=initial H
+tone set in. In the abstract, one could imagine that this initial H tone would be set afloat as a~response, like the H tone of monosyllabic nouns. But this scenario does not take into account the state of the tone system as a~whole. The representation shown in \figref{fig:setafloat} brings out the implausibility of a~change whereby initial H tone on disyllabic nouns is set afloat whereas the tonal category of nouns characterized by a~final H tone remained unchanged. It does not appear likely that the *HM category could stride over the *MH category, as it were, to yield a~floating tone (scenario 1). Instead, the change affecting word"=initial H~tones probably created a~push chain, represented as scenario 2 in \figref{fig:setafloat}: initial H moves to final position, and \textit{final} H is set afloat.\footnote{I am grateful to Henriëtte Daudey and Denis Creissels for closely"=argued discussion of this topic.} Scenario 2 is supported by the observed correspondences between Alawa and Labai shown in \tabref{tab:mmandhmhtonecorrespondences}: disyllables with a~floating H tone in Alawa correspond to disyllables with final H tone in Labai. 
+ 
+\begin{figure}
+	\caption{Two scenarios of evolution for *MM, *HM and *MH tone patterns over disyllabic nouns.}
+	\begin{tikzpicture}
+	\node (12) at (0,-0.5) {*MM};
+	\node (42) at (2,-0.5) {*HM};
+	\node (4442) at (4,-0.5) {*MH};
+	
+	\node (22) at (0,-2.5) {~MM};
+	\node (32) at (2,-2.5) {};
+	\node (52) at (4,-2.5) {~MH};
+	\node (5552) at (6,-2.5) {~MM+\#H};
+	
+	\draw[decoration={markings,mark=at position 1 with
+		{\arrow[scale=2,>=stealth]{>}}},postaction={decorate}] (12) -- (22);
+	
+	\draw[decoration={markings,mark=at position 1 with
+		{\arrow[scale=2,>=stealth]{>}}},postaction={decorate}] (42) -- (5552);
+	
+	\draw[decoration={markings,mark=at position 1 with
+		{\arrow[scale=2,>=stealth]{>}}},postaction={decorate}] (4442) -- (52);
+	
+	\node[text width=40mm] (s2) at (-3,-1.2) {Scenario 1\\ (implausible process):\\ only *HM is affected:\\delinking of {initial} H tone; final H unchanged};
+
+	\node (1) at (0,-4.5) {*MM};
+	\node (4) at (2,-4.5) {*HM};
+	\node (444) at (4,-4.5) {*MH};
+	
+	\node (2) at (0,-6.5) {~MM};
+	\node (3) at (2,-6.5) {};
+	\node (5) at (4,-6.5) {~MH};
+	\node (555) at (6,-6.5) {~MM+\#H};
+	
+	\draw[decoration={markings,mark=at position 1 with
+		{\arrow[scale=2,>=stealth]{>}}},postaction={decorate}] (1) -- (2);
+	
+	\draw[decoration={markings,mark=at position 1 with
+		{\arrow[scale=2,>=stealth]{>}}},postaction={decorate}] (4) -- (5);
+
+	\draw[decoration={markings,mark=at position 1 with
+		{\arrow[scale=2,>=stealth]{>}}},postaction={decorate}] (444) -- (555);
+
+%	\node [anchor=mid] (s1l) at (0.5,-2) {/\ipa{hwɤ.li}/ ‘cat’};
+	%  \node (s1ll) at (0.5,-2.5) {lexical tone: MH\#};
+	
+%	\node [anchor=mid] (s1lll) at (3,-2) {/\ipa{ɲi}/ \textsc{copula}};
+	%  \node (s1llll) at (4,-2.5) {lexical tone: L};
+	
+	\node[text width=40mm] (s1) at (-3,-5.2) {Scenario 2\\ (hypothesized change): \\push chain:\\ initial H moves\\ to final position;\\ final H is set afloat};
+
+	% Shifting top and bottom parts: 
+	%-0.5 -2.5 -1.2
+	% -4.5 -6.5 -4.75
+	
+	\end{tikzpicture}
+	\label{fig:setafloat}
+\end{figure}
+
+To conclude this brief foray into diachronic territory, a~caveat is in order. The scenarios set out in \figref{fig:setafloat} presuppose that, at the time of the change, the rest of the system was as it is now:
+that the present"=day M and H\# categories have not changed their nature since then. They also presuppose that the state of affairs found in Labai is more {conservative} than that found in Alawa: the tone patterns found in Labai are simply copied into \figref{fig:setafloat} with the addition of an asterisk, as if they were proto"=forms. 
+These assumptions are not unreasonable in view of the close proximity between the two dialects. 
+Still, the history of these dialects is not without complexities, witness the diversity of tonal correspondences for monosyllables shown in \tabref{tab:hhtonecorrespondence}. The logical next step in diachronic analysis would be to conduct a full"=fledged comparison of the tone systems of Alawa and Labai. As pointed out in the introduction (\sectref{sec:adilemmabreadthofcoverageofthetonesystemvsbreadthofsociolinguisticcoverage}), the ultimate research goal, viewed as a~collective endeavour, is to document in detail the synchronic tone systems of a number of research locations in the
+Na-speaking area, and gradually reconstruct the history of the evolution from a~non-tonal stage to each
+of the present-day varieties. For the present argument, let us simply conclude that there is solid comparative evidence for a~process of delinking of H tones that resulted in the present"=day floating H tones of the Alawa dialect. 
+
+\is{floating tone|)}
+ 
+\subsection{Word"=final H tone and the ‘flea’ H tone category}
+\label{sec:wordfinalandmorphologicalnucleusfinalHtones}
+
+It was mentioned above that the words ‘squirrel’ and ‘flea’, realized with a~M.H pattern in
+isolation (as /\ipa{hwæ˧ʈʂæ˥}/ and /\ipa{kv̩˧ʂe˥}/, respectively), have different lexical tones.
+
+The former has a~simple tonal behaviour: its H tone attaches to the last syllable of the lexical
+word. This is where it appears in all contexts. Under the present analysis, the first syllable of
+the word receives a~M tone by default, yielding a~surface phonological M.H pattern.\footnote{This
+  pattern might also be analyzed as consisting of a~MH {contour} associated to the first syllable, and projecting its H part onto the second syllable. This word"=initial MH tone would contrast with the tone category MH\#, in which the MH {contour} is associated to the word's
+  last syllable (for example: /\ipa{hwɤ˧li˧˥}/ ‘cat’). There is however no evidence that the tone at issue
+  consists of a~MH {contour}. The analysis adopted here is therefore as a~lexical"=word"=final
+  H tone, transcribed as H\#.}
+
+The latter, on the other hand, is much more elusive. ‘Flea’ is a~fitting example word for the tone category to which it belongs, serving as mnemonic of its propensity to hop around with less predictability than its host could hope for. When a~word carrying this tone is pronounced \is{form!in isolation}in isolation, the H tone associates to its last syllable: /\ipa{kv̩˧ʂe˥}/ ‘flea’ has a~M.H tone sequence at the surface phonological level. When the \isi{copula} is added, the result is /\ipa{kv̩˧ʂe˧ ɲi˥}/ ‘is \mbox{(a/the)} flea’, with H tone on the \isi{copula}; this is the same surface phonological pattern that is observed with the floating H tone, as exemplified by /\ipa{gi˧zɯ˧}/ ‘little
+brother’, /\ipa{gi˧zɯ˧ ɲi˥}/ ‘is \mbox{(a/the)} little
+brother’ (tone pattern \is{form!in isolation}in isolation: M.M, as opposed to M.H for ‘flea’). When the noun is followed by the \isi{possessive}, no H tone reaches the phonological surface: the observed form is /\ipa{kv̩˧ʂe˧=bv̩˧}/ ‘of \mbox{(a/the)} flea’, with M tone on both syllables of the
+noun and also on the \isi{possessive}. Again, this pattern is the same as that observed with the \is{floating tone}floating H tone: /\ipa{gi˧zɯ˧=bv̩˧}/ ‘of \mbox{(a/the)} little brother’. This raises the issue of the mode of association of the ‘flea’ H tone. It does not sit on the lexical word's last syllable, and it does not float in the same sense as the ‘little brother’ (\#H) tone, which is never realized on the word to which it is lexically associated. 
+
+One possibility that was entertained at earlier stages of reflection about this type of H tone is that its association could be specified relative to a~unit higher than the word. In Na, the syllable is the smallest relevant unit for tonal association and the tone"=bearing unit at the surface phonological level, and the \isi{tone group} is the highest relevant unit: successive tone groups are
+entirely independent from the point of view of their phonological tones. In"=between these two levels, one may propose to distinguish additional levels:
+
+\begin{itemize}
+	\item{the lexical word, to which tone categories are lexically associated}
+	\item{the tonal word: a~combination of lexical words, such as noun plus verb in S+V or O+V
+		combinations, and noun plus noun in compounds}
+	\item{the tonal phrase: a~tonal word plus any added clitics and affixes}
+\end{itemize}
+
+I proposed in an~article written in 2013 and published in 2015 that the ‘flea’ H tone attached to the right edge of the tonal phrase \citep{michaud2015b}. While lexically associated to a~word, this type of H tone would hop all the way to the right of this higher prosodic domain. In cases where the last syllable in the tonal phrase is a~suitable host, the H tone attaches to it; otherwise, such as in the case of the {possessive} suffix, the H tone remains unassociated, and does not make it to the surface phonological level. 
+
+Upon further reflection, the search for a~defining characteristic of the ‘flea’ H tone category with respect to a~given level in the prosodic hierarchy does not appear as a~promising strand of analysis. This tone has a~propensity to be realized later than the word to which it is lexically associated, but it shares this behaviour with the \is{floating tone}floating H tone. For instance, the main consultant’s family name has the ‘flea’ H tone; when spoken \is{form!in isolation}in isolation, it is realized as /\ipa{lɑ˧tʰɑ˧mi˥}/; when the {associative} \is{clitics}clitic /\ipa{=ɻ̍˩}/ is added to it, it yields /\ipa{lɑ˧tʰɑ˧mi˧=ɻ̍˥}/ ‘the Latami family; the Latamis’; and addition of the {agent} adposition /\ipa{ɳɯ˧}/ yields /\ipa{lɑ˧tʰɑ˧mi˧=ɻ̍˧-ɳɯ˥}/ ‘by the
+Latami family’. Impressionistically, this may seem to be typical of the behaviour of the ‘flea’ tone: hopping, or gliding, all the way to the right edge of the tonal phrase, as the morphotonological opportunity for it arises. But this behaviour is not a~defining characteristic of the ‘flea’ H tone category: the \is{floating tone}floating H tone yields the same results in association with these added syllables. The behaviour of the various lexical tones in combination with other morphemes, as set out in tabular form in Chapters~\ref{chap:thelexicaltonesofnouns} to \ref{chap:verbsandtheircombinatoryproperties}, provides ample evidence that metaphorical descriptions of the tones (as semi"=personified entities) will not take us very far. It would be misleading to build a~narrative account of the process whereby the noun's H tone would ‘hop’ or ‘glide’ onto the verb. The synchronic reason that the \isi{copula} receives H tone when following the ‘flea’ H tone is because there is a~morphotonological rule to that effect. 
+%; they are not transparently analyzable as opportunities for ‘\is{floating tone}floating’, ‘hopping’ or ‘gliding’ of which different lexical tones avail themselves depending on their intrinsic propensity to such or such behaviour. 
+%The extent to which a~certain type of lexical tone tends to be realized close to the edge of a~given level in the prosodic hierarchy is a~statistical tendency, not to be taken as a~defining property of the tone at issue.
+
+Thus, it does not appear feasible to pinpoint the exact phonological nature of the ‘flea’ H tone category by proposing one defining characteristic. Instead, it is more appropriate to view it first and foremost as one of the tones within the system, defined by the set of oppositions in which it enters in the full range of morphotonological contexts. The special feel of a~tone can warrant giving it a~nickname, as a~convenient label, referring to the ‘little brother’ tone (\#H) as a~\textit{floating} H tone, and to the ‘flea’ H tone as a~\textit{gliding} H tone, for instance; but this label should not be mistaken for a~definition. The symbol chosen for transcribing the ‘flea’ H tone is H\$, where the dollar sign ‘\$’ is added to distinguish this tone from the other two lexical H tones: H\# (lexical"=word"=final H tone) and \#H (\is{floating tone}floating H tone). The choice of an~arbitrary symbol (the dollar sign) is intended to reflect the abstract nature of this tone category, as one of the distinctive tones within the tone system of Alawa. 
+
+This category is small, with only forty-five example words in the dictionary \citep{michauddict2015} as against 180 examples for the word-final H tone category, H\#, and 345 examples for the \is{floating tone}floating H tone category, \#H. But it is firmly attested, and there are productive rules of compounding, prefixation and suffixation that feed into this category (as will be set out in later chapters). 
+
+To sum up, disyllabic (and polysyllabic) nouns with H tone must be divided into three categories,
+labelled H\#, H\$ and \#H. A~H tone on the last
+syllable of a~disyllabic or polysyllabic noun may have different origins. It may be the realization
+of a~High tone that is {anchored} to the last syllable of the lexical word: H\#. Or it may be the realization of H\$ tone. It is
+impossible to distinguish these \is{form!in isolation}in isolation. The third of these
+categories~-- \#H~-- denotes a~noun that carries a~\is{floating tone}floating H tone. In order to find out the
+lexical tones of words, they have to be heard in various contexts. For nouns, these are:
+tone"=group"=final position (as when they are spoken \is{form!in isolation}in isolation); tone"=group"=internal position; and
+when followed by a~clitic such as the \isi{possessive}. (On the notion of {tone group}: see Chapter \ref{chap:toneassignmentrulesandthedivisionoftheutteranceintotonegroups}.) The lexical tone can be identified with
+certainty by matching up the behaviour of the word in these various contexts.
+
+\subsection[A~postlexical rule for all-L tone groups]{An added complexity concerning L tone: A~postlexical rule for all-L tone groups}
+\label{sec:ltonesexistenceofarepairphenomenonforallltonegroups}
+
+‘Sheep’, realized in association with the \isi{copula} as /\ipa{jo˩ ɲi˩˥}/ (i.e.\ with a~low"=rising \is{tonal contour}contour on
+the verb), is a~case where the noun’s phonological tone is hypothesized to surface as such: a~L
+tone. A~slight complexity is that the \isi{copula} which follows it surfaces with a~low"=rising tone. This makes sense in
+view of the exceptionless observation that an utterance cannot carry low tone on all of its
+syllables. The sequences L+L (monosyllabic noun+\isi{copula}) and L.L+L (disyllabic noun+\isi{copula}) cannot
+surface as such, due to a~general prohibition against all-L tone groups in the Alawa dialect of Yongning Na. The \is{tonal contour}contour observed
+at the end of a~sequence of L tones is interpreted as resulting from the post"=lexical addition of
+an~extra tone. (This \is{tone rules}phonological rule is formulated in \sectref{sec:alistoftonerules} as Rule~7: “If a~\isi{tone group} only contains L tones, a~post"=lexical H tone is added to its last syllable”.) The same applies to the tonal category of disyllables exemplified by /\ipa{kʰv̩˩mi˩˥}/ ‘dog’.
+
+Concerning the transcription of low"=rising contours, the choice between notation as LM or LH could
+appear as a~nonissue, insofar as there is no contrast (at the surface phonological level) between LM
+and LH contours. But in the case of /\ipa{jo˩ ɲi˩˥}/ ‘is \mbox{(a/the)} sheep’ or /\ipa{kʰv̩˩mi˩˥}/ (realization of
+‘dog’ \is{form!in isolation}in isolation), there is a~language"=internal argument for analyzing the endpoint of the
+\is{tonal contour}contour (a post"=lexical tone) as H rather than M. As will be set out in \sectref{sec:analysisofmasadefaulttone}, the M tone in
+Na is a~phonologically inert tone; if the postlexical tone added to all-L sequences were M, this
+would be the only instance of rule leading to the addition of a~M tone to a~syllable that already hosts another tone. The postlexical tone added at the end of a~sequence of L tones is
+therefore analyzed as H, and the rising \is{tonal contour}contour found in the nouns ‘dog’ and ‘wilderness’, and in the phrase ‘is a~sheep’,
+will hereafter be written as LH, hence /\ipa{kʰv̩˩mi˩˥}/, /\ipa{dʑɯ˩nɑ˩mi˩˥}/ and /\ipa{jo˩ ɲi˩˥}/, respectively.
+
+The issue of why monosyllabic L-tone nouns \is{form!in isolation}in isolation surface with M tone and not with a~LH \is{tonal contour}contour (consisting of their lexical L tone plus a~postlexical H tone) is addressed in \sectref{sec:reflectionsonthestructureofthesystemphonologicalregularitiesandmorphophonologicaloddities}.
+
+
+\subsection{Tonal contours as sequences of level tones}
+\label{sec:contourtonessequencesofleveltonesonthesamesyllable}
+
+As mentioned in the static overview presented earlier, there are no phonological falling contours in
+Alawa: no syllables carry phonological tones HL, HM, or ML. Also, tone"=group"=initial H is
+never observed.
+
+Rising contours, on the other hand, do exist. They are restricted to the last syllable of a~tone
+group: a~rising \is{tonal contour}contour is not found on a~non"=group"=final syllable, except in some special cases
+discussed in~\sectref{sec:casesofbreachoftonalgroupingandconsequencesforthesystem}. The two observed contours are M-to-H and L-to-H (the latter
+constituting the \isi{neutralization} of underlying LM and LH). Unlike the
+low"=rising \is{tonal contour}contour, the phonological behaviour of the mid"=rising \is{tonal contour}contour, MH, is straightforward. When the word
+is tone"=group"=final, the \is{tonal contour}contour is realized as such: a~rising tone with a~non"=low starting"=point,
+e.g.~in /\ipa{ʈʂʰæ˧˥}/ ‘deer’ and /\ipa{hwɤ˧li˧˥}/ ‘cat’. (Note that when a~word is pronounced in
+isolation, it constitutes a~{tone group} on its own: the beginning of the word is also the beginning
+of the {tone group}, and the end of the word is also the end of the {tone group}.)  When there is
+a~following syllable within the {tone group}, the MH \is{tonal contour}contour unfolds, projecting its H part onto that
+syllable. Unlike the \is{floating tone}floating High tone (\#H), which cannot attach to a~following \is{clitics}clitic, the MH
+\is{tonal contour}contour can unfold over any syllable. With the \isi{copula}, this yields /\ipa{ʈʂʰæ˧ ɲi˥}/ ‘is \mbox{(a/the)}
+deer’ and /\ipa{hwɤ˧li˧ ɲi˥}/ ‘is \mbox{(a/the)} cat’. With the \isi{possessive}, it yields /\ipa{ʈʂʰæ˧=bv̩˥}/ ‘of
+(a/the) deer’ and /\ipa{hwɤ˧li˧=bv̩˥}/ ‘of \mbox{(a/the)} cat’. This constitutes strong evidence in favour of analyzing the \is{tonal contour}contour tones of Yongning Na as sequences of level tones. 
+
+To preview the result of analysis, low"=rising contours also lend themselves to decomposition into levels. But they raise some subtle issues for description and
+analysis, which are addressed in the paragraphs that follow.
+
+
+\subsection[An alternative analysis of \mbox{//LM//} and \mbox{//LH//}]{An alternative analysis of the \mbox{//LM//} and \mbox{//LH//} categories: Could the two terms of the opposition be \mbox{//LM//} and \mbox{//LML//}?}
+\label{sec:twooptionsforanalysislmvslhorlmvslml}
+
+Concerning the two categories of tones neutralized to a~low"=rising tone \is{form!in isolation}in isolation, illustrated by
+/\ipa{ʐæ˩˥}/ ‘leopard’ and /\ipa{bo˩˥}/ ‘pig’, at least two analytical options are open. Assuming (for reasons which
+will be explained below) that the perfective \is{suffixes}suffix carries a~M tone unless affected by what
+precedes, the L tone on the \is{suffixes}suffix in (\ref{ex:boughtLEOP}), contrasting with the M tone in (\ref{ex:boughtPIG}), could be put down to
+a~\is{floating tone}floating L tone, parallel to the \is{floating tone}floating H tone found in the tone categories illustrated by
+‘horse’. This tone would remain unassociated when ‘to buy leopards’ is spoken without a~\is{suffixes}suffix, and associate to the \is{suffixes}suffix when one is available. 
+
+\begin{exe}
+	\ex
+	\ipaex{ʐæ˩ hwæ˧-ze˩}\\
+	\label{ex:boughtLEOP}
+	\gll ʐæ˩˥	hwæ˧	-ze˧\\
+	leopard		to\_buy		\textsc{pfv}\\
+	\glt ‘has bought leopards’
+\end{exe}
+
+\Hack{\newpage}
+
+\begin{exe}
+	\ex
+	\ipaex{bo˩ hwæ˧-ze˧}\\
+	\label{ex:boughtPIG}
+	\gll bo˩˧	hwæ˧	-ze˧\\
+	leopard		to\_buy		\textsc{pfv}\\
+	\glt ‘has bought pigs’
+\end{exe}
+
+The underlying tone pattern of ‘to buy leopards’
+would then be \mbox{//LML//}, as against a~simpler underlying \mbox{//LM//} pattern for ‘to buy pigs’. (Remember that double slashes are used for underlying phonological tone, as opposed to simple slashes for surface phonological tone.) In turn, the difference
+between these two object"=plus"=verb phrases would be put down to a \mbox{//LML//} vs.\ \mbox{//LM//} tone contrast on the
+noun. The \mbox{//LML//} sequence could also be transcribed as //LM+\#L//: \mbox{//LM//} followed by a~\is{floating tone}floating L tone.
+
+But another analytical option is suggested by the static observation that a~H tone is always followed by
+L tones within a~speech unit which is referred to here as a~\textit{tone group} (about which see full details in Chapter~\ref{chap:toneassignmentrulesandthedivisionoftheutteranceintotonegroups}). In this light, the
+lowering of the tone of the {perfective} \is{suffixes}suffix in (\ref{ex:boughtLEOP})
+could be ascribed to the presence of a~preceding H tone, which depresses the tones of all the
+syllables that follow it: the phonological form would be //\ipa{ʐæ˩ hwæ˥-ze˩}//.\footnote{The L tone on the {perfective} {suffix} is not a~phrase"=level phenomenon: there are contexts where a~clause"=final (and utterance"=final) {suffix} carries a~tone other than L, e.g.~in (\ref{ex:boughtPIG}) and in /\ipa{æ̃˩ hwæ˧-ze˧}/ ‘bought chicken’.} In turn, the H tone
+carried by the verb ‘to buy’ in this construction would originate in a~lexical LH tone on the noun
+‘leopard’.
+
+Of these two options, the second is currently favoured because \is{floating tone}floating L tones are not required
+anywhere else in the description of the language. There are strong reasons to use the concept of \is{floating tone}floating H tone in the description of this dialect's morphotonology (including pieces of \is{comparative method (historical linguistics)}comparative"={diachronic} evidence set out in \sectref{sec:thecreationoffloatinghtonesaconsequenceofphonotacticconstraints}), whereas positing a~\is{floating tone}floating L
+tone would be an \textit{ad hoc} theoretical move. Still, there is no overwhelming evidence for
+rejecting the analysis of the tone of the ‘leopard’ category as a~sequence of three levels: LM, plus
+a~\is{floating tone}floating L tone (LM+\#L). Such cases of analytical indeterminacy are important to understanding
+the evolutionary potential of the system~-- a~topic which will be taken up in Chapter~\ref{chap:yongningnatonesinadynamicsynchronicperspective}.
+
+Under the present analysis, the tone categories \mbox{//LM//} and \mbox{//LH//} contrast not only on monosyllables
+but also on disyllables. These two tones surface in the same way except when the word is followed by
+a~\is{clitics}clitic. For instance, //\ipa{bo˩mi˧}// ‘sow, female pig’ and //\ipa{bo˩ɬɑ˥}// ‘boar, male pig’ are
+realized with the same surface phonological tone pattern, not only \is{form!in isolation}in isolation but also when
+followed by the \isi{copula}. In Alawa, L.M.L and L.H.L never contrast with each other at the surface phonological level, nor do L.M and L.H in final position in a~{tone group}; it is therefore possible to transcribe the surface forms as /\ipa{bo˩mi˧}/ or /\ipa{bo˩mi˥}/ for ‘sow’ and /\ipa{bo˩mi˧ ɲi˩}/ or /\ipa{bo˩mi˥ ɲi˩}/ for ‘{is \mbox{(a/the)} sow’; and as /\ipa{bo˩ɬɑ˧}/ or /\ipa{bo˩ɬɑ˥}/ for ‘boar’ and /\ipa{bo˩ɬɑ˧ ɲi˩}/ or /\ipa{bo˩ɬɑ˥ ɲi˩}/ for ‘{is \mbox{(a/the)} boar’. The contexts that allow for telling apart these two lexical tone categories are exemplified by /\ipa{bo˩mi˧=bv̩˧}/ ‘{of \mbox{(a/the)} sow’ vs.\ /\ipa{bo˩ɬɑ˧=bv̩˩}/ (which
+could also be transcribed /\ipa{bo˩ɬɑ˥=bv̩˩}/) ‘{of \mbox{(a/the)} boar’: in the latter expression,
+the \isi{possessive} \is{clitics}clitic //\ipa{=bv̩˧}// receives L tone.
+%\footnote{Inconsistencies in the tonal behaviour of the word for ‘boar’ in the speech of consultant M21 differences observed across speakers led me to the hypothesis that the word for
+%	‘boar’ may be an~\is{exceptions}exception \citep[191]{michaud2008c}. But the existence of the opposition was later
+%	confirmed in the speech of the consultant of reference, F4, in elicited combinations and also in
+%	narratives.}
+
+For the first category, ‘sow’, the analysis of the tone pattern as LH is ruled out: if one were to
+transcribe this as /\ipa{bo˩mi˥}/, then one would have to transcribe the form with the \isi{possessive} as
+/\ipa{$\ddagger${\kern2pt}bo˩mi˥=bv̩˥}/ ‘of \mbox{(a/the)} sow’, since the \isi{possessive} surfaces with the same tonal level as the noun's second syllable; but the tone sequence H+H is never observed elsewhere
+in the Alawa dialect of Yongning Na. By an exceptionless rule, a~syllable following a~H-tone syllable receives L tone; this will be referred to in \sectref{sec:alistoftonerules} as “Rule 4”. (The full set of rules is also given in the ‘Quick reference’ section at the outset of this volume.) In view of the above argument, ‘of \mbox{(a/the)} sow’ is transcribed as /\ipa{bo˩mi˧=bv̩˧}/, and the category illustrated by ‘sow’ is analyzed as \mbox{//LM//}, hence //\ipa{bo˩mi˧}//.
+
+As for ‘boar’, a~phonological analysis as //\ipa{bo˩ɬɑ˥}// makes good phonological sense, insofar as
+all the tones that follow are lowered to L, as expected following a~H tone. When a~word of this
+tonal category is followed by the \isi{possessive} //\ipa{=bv̩˧}//, the latter carries L tone; this is the same as
+after a~disyllable with H\# tone, as shown in~(\ref{ex:oftherat}-\ref{ex:oftheboar}), where the notation as LH for ‘boar’ is adopted.
+\begin{exe}
+  \ex \label{boarrat}
+  \begin{xlist}
+    \ex 
+    \label{ex:oftherat}
+    \ipaex{hwæ˧ʈʂæ˥=bv̩˩}\\
+    \gll hwæ˧ʈʂæ˥	=bv̩˧\\
+	rat	\textsc{poss}\\
+    \glt ‘of \mbox{(a/the)} rat’
+
+    \ex 
+    \label{ex:oftheboar}
+    \ipaex{bo˩ɬɑ˥=bv̩˩}\\
+    \gll bo˩ɬɑ˥	=bv̩˧\\
+    boar	\textsc{poss}\\
+    \glt ‘of \mbox{(a/the)} boar’
+  \end{xlist}
+\end{exe}
+
+In addition, all compounds involving the tone category of ‘boar’ (‘boar’s head’, ‘boar’s blood’, and so on) have the same pattern, which can be described as L followed by H followed by a~sequence of L tones (L.H.L...). This
+is again parallel to the \mbox{//H\#//} category, where the tone pattern of all compounds is M followed by H followed by a~sequence of
+L tones (M.H.L...).
+
+Under the present analysis, disyllables and monosyllables both undergo a~\isi{neutralization} of the
+\is{form!underlying}underlying \mbox{//LM//} and \mbox{//LH//} categories when they are realized \is{form!in isolation}in isolation. 
+
+For disyllables of the ‘sow’ and ‘boar’ types, as for monosyllables of the ‘pig’ and ‘leopard’ types discussed at the outset of the present section (\sectref{sec:twooptionsforanalysislmvslhorlmvslml}), an alternative to the {\mbox{//LM//}"=vs."=\mbox{//LH//} analysis would be an analysis as \mbox{//LM//} vs.\ \mbox{//LML//.} The tone pattern of ‘sow’ would be analyzed as \mbox{//LM//}, and that of ‘boar’ as
+\mbox{//LML//}. This analysis equally captures the fact that the tones of syllables following nouns of the ‘boar’ type are lowered to L: by Rule~5 (“All syllables following a~H.L or M.L sequence receive L tone”), L.M.L can only be followed
+by more L tones. This is the analysis that I chose at first, including in the Yongning Na glossary deposited in 2011 in the Sino-Tibetan Etymological Dictionary and Thesaurus (STEDT). Describing this tone category as
+a~sequence of three levels did not seem exceedingly complex at the time, in view of the complexity
+of other categories, such as //L+MH// and //LM+\#H//. However, those two lexical tone
+categories are composed of two parts, one associating to the beginning of the word, the other to its
+end; \mbox{//LML//} would be the only pattern specifying three levels in a~row. Moreover, it would be the
+only category for which a~//ML// \is{tonal contour}contour would be posited. Notation as \mbox{//LH//} is therefore
+adopted here. One may nonetheless keep in mind that an~analysis as \mbox{//LML//} would also be
+possible. Such cases of analytical uncertainty do not merely constitute recondite topics for the
+phonologist to ponder, they also provide insights into the system’s potential for change, since
+language learners also face these competing analytical options when constructing their own
+phonological systems.
+
+
+\subsection[Cases of neutralization of \mbox{//LM//} and \mbox{//LH//}]{Cases of neutralization of the opposition between \mbox{//LM//} and \mbox{//LH//}: Is the product /LM/ or /LH/?}
+\label{sec:neutralizationoflmandlhinisolationistheproductlmorlh}
+
+Monosyllables of \mbox{//LM//} and \mbox{//LH//} tone categories, such as //\ipa{bo˩˧}// ‘pig’ and //\ipa{ʐæ˩˥}// ‘leopard’,
+are realized \is{form!in isolation}in isolation with the same tone: a~low"=rising \is{tonal contour}contour. Phonetically, a~low"=to"=mid
+realization and a~low"=to"=high realization are both acceptable. My consultants sometimes corrected my
+productions of this tone category because the starting"=point was not low enough, which entails risks of confusion with \mbox{//MH//}. On the other hand, they never corrected me for a~mistaken
+endpoint (too high or too low).
+
+In an~attempt to find out to what extent there is a~preference for a~phonetically [Mid] or
+phonetically [High] endpoint for the low"=rising {contour}, I tried fishing for corrections from
+consultant F4 on several occasions, producing two variants of words such as ‘pig’ and ‘leopard’,
+both with a~low starting"=point, one with what I intended as a~moderate rise (approximately up to F\textsubscript{0}
+mid"=range), and one which I intended as a~strong, rapid rise towards a~[High] final target. I asked
+the consultant to choose which of the two productions sounded better. The answer was always ‘both
+are correct’ (/\ipa{ɲi˧-bæ˧ {\kern2pt}|{\kern2pt} ho˩˥}/: \textit{two"=\textsc{clf} correct}).
+
+The choice made here is to transcribe the product of the \isi{neutralization} of \mbox{//LM//} and \mbox{//LH//} as /LH/
+at the surface phonological level; but there is no decisive phonetic argument for this notation. The
+product of tone \isi{neutralization} tends to be phonetically less definite than the product of
+consonantal \isi{neutralization}. For instance, the opposition between coronal and retroflex stops in
+Yongning Na is neutralized in front of /\ipa{ɯ}/, and the product of \isi{neutralization} is clearly
+a~retroflex: [\ipa{ʈʰɯ}] is a~well"=formed syllable in Yongning Na, and [\ipa{tʰɯ}] is not. On the other hand, the product
+of the \isi{neutralization} of //H// and \mbox{//M//} \is{form!in isolation}in isolation occupies the entire portion of the phonetic
+tone space corresponding to these two tones: it is a~non"=low tone, and it may not prove appropriate
+to assign it a~more precise phonetic label, such as either ‘high’ or ‘mid’. (Issues of phonetic implementation of tone sequences are taken up in Chapter~\ref{chap:fromsurfacephonologicalformstophoneticrealizationintonationandtonalimplementation}.)
+
+\subsection[On the anchoring of tones to word boundaries]{On the anchoring of tones to word boundaries}
+\label{sec:twoparttonecategorieslmhandlmmh}
+
+The M and L tone categories of the Alawa dialect of Yongning Na are hypothesized to associate to the \textit{first} syllable of a~lexical item, and to spread from there onto the entire word; as for H tone (or rather, the three categories of H tones), its association is specified respective to the \textit{last} syllable of the lexical item. There are thus tone categories that are \is{anchorage}anchored to the beginning of the word, and others to its end. Two of the tone categories have both anchorages: they are made up of two parts, the first of which is \is{anchorage}{anchored} at the beginning of the lexical word, and the second at its end. These two categories are //LM+\#H// and //LM+MH\#//, exemplified in \tabref{tab:thelexicaltonesofdisyllabicnouns} by //\ipa{nɑ˩hĩ\#˥}// ‘Naxi’ and //\ipa{õ˩dv̩˧˥}// ‘wolf’, respectively. The ‘+' sign in //LM+\#H// and //LM+MH\#// denotes the \is{juncture (inside a tone group)}juncture between these tones' first and second part. Thus the H tone in the phrase /\ipa{nɑ˩hĩ˧ ɲi˥}/ ‘is \mbox{(a/the)} Naxi’ is interpreted as the manifestation
+of a~\is{floating tone}floating H tone, and the lexical tone of this category analyzed as //LM+\#H//: a~\mbox{//LM//}
+\is{tonal contour}contour plus by a~\is{floating tone}floating H tone, \mbox{//\#H//}. Likewise, //LM+MH\#//, exemplified by //\ipa{õ˩dv̩˧˥}//
+‘wolf’, is analyzed as a~tonal category consisting of two parts: a~\mbox{//LM//} tone, plus a~final \mbox{//MH//}
+{contour}. In both cases, the pound symbol indicates the syllabic {anchoring} of the second part of
+these two"=part tone categories: after the end of the lexical word for //LM+\#H//, and at the end of
+the lexical word (i.e.\ on its last syllable) for \mbox{//LM+MH\#//}. 
+
+\newpage 
+These two tone categories may seem awfully complex, being composed of two parts each of which associates at a~different end of the same word. The complexity is real, and probably goes a~long way towards explaining why there are only two such tone categories in Alawa, and not the full range of combinations that would be theoretically possible: there is no //LM+H\$// tone, for instance. On the other hand, seen from inside the Na tone system, the behaviour of these two tone categories, //LM+\#H// and //LM+MH\#//, is not all that complicated, as it results straightforwardly from that of the constituent elements. The tones only need to be specified as consisting of two parts, each of which takes care of its own mode of association, like when they appear on their own. The mode of association of the first part of the tone (the \mbox{//LM//} part) in //LM+\#H// and //LM+MH\#// is straightforward; likewise for the second part (\mbox{//\#H//} and \mbox{//MH\#//}, respectively). As suggested by the ‘+' symbol in //LM+\#H// and //LM+MH\#//, the complexities in these two"=part tone categories add up; they do not multiply.
+
+
+\section{General observations about the system}
+\label{sec:overviewofthesystemandsomereflectionsonitsstructure}
+
+Some generalizations emerge from the observations made above. There are three tonal levels in
+Yongning Na, H(igh), M(id) and L(ow). The tone"=bearing unit is the syllable, more specifically the
+syllable rhyme. There is no distinction in terms of syllable weight, and thus no need for
+a~decomposition into moras: any syllable rhyme, including syllabic consonants, can function as
+a~tone"=bearing unit for one or two tonal levels. Out of six theoretically possible contours (HM, HL,
+MH, ML, LH, and LM), only the three rising contours (MH, LH and LM) are attested as lexical categories, illustrated on monosyllables by //\ipa{ʈʂʰæ˧˥}//
+‘deer’, //\ipa{ʐæ˩˥}// ‘leopard’ and //\ipa{bo˩˧}// ‘pig’. Moreover, at the surface phonological level,
+(i)~contours are restricted to tone"=group"=final position, and (ii)~LM and LH are neutralized to
+LH. Stated differently, each syllable within a~\isi{tone group} carries one of three levels: H, M or L, and
+the last syllable can carry one of the following: H, M, L, MH, or LH. There are no phonological
+falling contours (HL, HM or ML) on a~single syllable, only rising contours.
+
+The following paragraphs propose an~overview of the system of lexical tones for nouns, and some
+reflections on its structure.
+
+\subsection{Usefulness of an~autosegmental approach}
+\label{sec:autosegmentalphonology}
+
+A first general observation that can safely be made in view of the data presented so far is that tone in Yongning Na is best analyzed in terms of autosegmental models: models in which the
+tones are \textit{auto}nomous from the \textit{segment}s (i.e.\ vowels and consonants). These models were originally developed for
+Subsaharan tone systems, but have been convincingly applied to certain languages of the Tibeto"=Burman area (see,
+in particular, \citealt{hymanetal2002a}). The choice of these descriptive concepts is motivated by language"=internal evidence; it is by no means dictated by
+\textit{a~priori} theoretical commitments. I am fortunate to be familiar with two strikingly different tone
+systems of Asia: that of Yongning Na, which has phonetically simple and morphophonologically complex
+tones, and that of Northern \ili{Vietnamese}, which has phonetically complex and
+morphophonologically inert tones. To me, it is clear that Yongning Na is to be described as having
+a~level"=tone system, unlike \ili{Vietnamese} in which “there are no objective reasons to decompose
+({\dots}) tone contours into level tones or to reify phonetic properties like high and low pitch
+into phonological units such as H and L” (\citealt{brunelle2009c}; see also
+\citealt{brunelleetal2010,kirby2010,kirby2011}). This issue is discussed further in \sectref{sec:typologicalbackgroundtotheclassificationofyongningnatonesasleveltones}. 
+
+
+\subsection{Recapitulation of the lexical tone categories}
+\label{sec:overviewofthesystem}
+
+Tables~\ref{tab:thelexicaltonesofmonosyllabicnouns} and \ref{tab:thelexicaltonesofdisyllabicnouns} set out the analysis of the six tone categories of \is{monosyllables}monosyllabic nouns and the eleven
+categories of disyllabic nouns. To date, no single morphosyntactic context bringing out all the
+tonal contrasts of nouns has been found: each context brings out only some of the oppositions,
+whereas others are neutralized. For instance, addition of the \isi{copula} brings out the opposition
+between \mbox{//M//} and \mbox{//\#H//} tones, which is neutralized \is{form!in isolation}in isolation. 
+%(/M+L/ vs.\ /M+H/ for monosyllables, /M.M+L/ vs.\ /M.M+H/ for
+%disyllables). This opposition is neutralized to /M/ and /M.M/ respectively \is{form!in isolation}in isolation. 
+On the
+other hand, addition of the \isi{copula} neutralizes the tonal contrasts that appear \is{form!in isolation}in isolation among
+\mbox{//\#H//}, \mbox{//MH\#//} and \mbox{//H\$//} on disyllables: all three yield /M.M+H/ with the \isi{copula}, whereas they
+are realized as /M.M/, /M.MH/ and /M.H/ respectively \is{form!in isolation}in isolation. So it is necessary to elicit
+a~word in several contexts to determine its lexical tone. Tables~\ref{tab:thelexicaltonesofmonosyllabicnouns} and \ref{tab:thelexicaltonesofdisyllabicnouns} provide information on the tone
+categories (i)~\is{form!in isolation}in isolation, (ii)~when followed by the \isi{copula} //\ipa{ɲi˩}//, in frame (\ref{ex:carrierthisisathe}), and (iii)~when followed by the \isi{possessive} \is{clitics}clitic //\ipa{=bv̩˧}//.
+\begin{exe}
+  \ex
+  \label{ex:carrierthisisathe}
+  \gll ʈʂʰɯ˧ {\_\_\_\_\_\_\_\_\_} ɲi\\
+  \textsc{dem.prox} \textit{{target item}}	\textsc{cop}\\
+  \glt	‘This is \mbox{(a/the)} \ipa{{\_\_\_\_\_\_\_\_\_}}.’
+\end{exe}
+
+A recording of \is{disyllables}disyllabic nouns in frame (\ref{ex:carrierthisisathe}) is available online; its identifier is: NounsInFrame.
+
+This set of three contexts is sufficient to bring out all oppositions, except that between \mbox{//LM//}
+and \mbox{//LH//} on monosyllables, which only surfaces in a~very restricted number of contexts. (As was mentioned above,
+\sectref{sec:disyllabicnouns}, one such context is in association with the verb ‘to buy’: for instance, the \mbox{//LM//}-tone word
+‘pig’ yields /\ipa{bo˩ hwæ˧-ze˧}/ ‘bought pigs’, whereas the \mbox{//LH//}-tone word ‘leopard’
+yields /\ipa{ʐæ˩ hwæ˧-ze˩}/ ‘bought leopards’.)
+
+The proximal demonstrative //\ipa{ʈʂʰɯ˥}// always carries the same surface tone in (\ref{ex:carrierthisisathe}), regardless of the tonal category
+of the following item; as a~consequence, only the tonal pattern of the rest of the sentence is
+indicated in
+\tabref{tab:thelexicaltonesofmonosyllabicanddisyllabicnouns}a--b. On the other hand, no
+tone is indicated for the \isi{copula} in frame (\ref{ex:carrierthisisathe}), because its surface tone changes according to the
+tone category of the target word.
+
+Dots indicate boundaries between syllables within the lexical word, and the ‘+’ sign indicates the
+\is{juncture (inside a tone group)}junctures between the noun and a~following morpheme. For instance, the information provided in
+\tabref{tab:thelexicaltonesofdisyllabicnouns} for disyllabic L-tone nouns is: L.LH in
+isolation, and L.L+H with \isi{copula} and with \isi{possessive} \is{clitics}clitic. As an~example, the word ‘dog’ is
+/\ipa{kʰv̩˩mi˩˥}/ \is{form!in isolation}in isolation, yielding /\ipa{kʰv̩˩mi˩ ɲi˥}/ ‘is \mbox{(a/the)} dog’ and
+/\ipa{kʰv̩˩mi˩=bv̩˥}/ ‘of \mbox{(a/the)} dog’. 
+%The final H tone in /\ipa{kʰv̩˩mi˩˥}/ is due to a~general
+%rule, discussed in \sectref{sec:ltonesexistenceofarepairphenomenonforallltonegroups}: tone groups containing only /L/ tones are not allowed by Yongning Na
+%phonotactics; if a~\isi{tone group} only has /L/ tones, a~postlexical /H/ tone is added to its last
+%syllable.
+
+The leftmost column (“analysis”) presents the lexical tone categories. The three following columns contain
+surface phonological transcriptions. Examples in the column before last are transcribed according to
+the phonological tone categories, following conventions set out in \sectref{sec:thenotationoftonalcategoriesinlexicalentries}.
+
+\begin{subtables}
+\label{tab:thelexicaltonesofmonosyllabicanddisyllabicnouns}
+\begin{table}[t!]
+\caption{\label{tab:thelexicaltonesofmonosyllabicnouns}The lexical tone categories of monosyllabic nouns.}
+\begin{tabularx}{\textwidth}{ P{20mm} P{19mm} Q Q P{19mm} Q }
+  \lsptoprule
+analysis & in isolation & +\textsc{cop} & +\textsc{poss} & //example// & meaning\\ \midrule
+// LM // & LH & L+H & L+H & \ipa{bo˩˧}  & pig\\
+// LH // & LH & L+H & L+H & \ipa{ʐæ˩˥}  & leopard\\
+// M // & M & M+L & M+M & \ipa{lɑ˧} & tiger\\
+// L // & M & L+LH & L+M & \ipa{jo˩} & sheep\\
+// \#H // & M & M+H & M+M & \ipa{ʐwæ˥} & horse\\
+// MH\# // & MH & M+H & M+H & \ipa{ʈʂʰæ˧˥} & deer\\
+\lspbottomrule
+\end{tabularx}
+\end{table}
+
+\begin{table}[t!]
+\caption{\label{tab:thelexicaltonesofdisyllabicnouns}The lexical tone categories of disyllabic nouns.}
+\begin{tabularx}{\textwidth}{ P{21mm} l Q Q P{19mm} Q }
+  \lsptoprule
+analysis & in isolation & +\textsc{cop} & +\textsc{poss} & //example// & meaning\\ \midrule
+// M // & M.M & M.M+L & M.M+M & \ipa{po˧lo˧} & ram\\
+// \#H // & M.M & M.M+H & M.M+M & \ipa{ʐwæ˧zo\#˥} & colt\\
+// MH\# // & M.MH & M.M+H & M.M+H & \ipa{hwɤ˧li˧˥} & cat\\
+// H\$ // & M.H & M.M+H & M.M+M & \ipa{kv̩˧ʂe˥\$} & flea\\
+// H\# // & M.H & M.H+L & M.H+L & \ipa{hwæ˧ʈʂæ˥} & squirrel\\
+// L // & L.LH & L.L+H & L.L+H & \ipa{kʰv̩˩mi˩} & dog\\
+// L\# // & M.L & M.L+L & M.L+L & \ipa{dɑ˧ʝi˩} & mule\\
+//LM+MH\#// & L.MH & L.M+H & L.M+H & \ipa{õ˩dv̩˧˥} & wolf\\
+//LM+\#H// & L.M & L.M+H & L.M+M & \ipa{nɑ˩hĩ\#˥} & Naxi\\
+// LM // & L.M & L.M+L & L.M+M & \ipa{bo˩mi˧} & sow\\
+// LH // & L.M & L.M+L & L.M+L & \ipa{bo˩ɬɑ˥} & boar\\
+\lspbottomrule
+\end{tabularx}
+\end{table}
+\end{subtables}
+
+
+In view of this picture of the tone system of nouns, the distributional observations made above can be flipped
+around. For instance, instead of stating that “a \is{monosyllables}monosyllabic noun that carries a~M tone in
+isolation may belong in one of three distinct \is{form!underlying}underlying categories”, it can now be said that the
+three non"=\is{tonal contour}contour lexical tones, \mbox{//M//}, //L// and \mbox{//\#H//}, all \is{neutralization}neutralize to /M/ when a~\is{monosyllables}monosyllable
+is said \is{form!in isolation}in isolation. Among disyllables, \mbox{//M//} and \mbox{//\#H//} \is{neutralization}neutralize to /M.M/; \mbox{//H\$//} and \mbox{//H\#//}
+\is{neutralization}neutralize to /M.H/; and \mbox{//LM//}, \mbox{//LH//} and //LM+\#H// \is{neutralization}neutralize to \mbox{/L.M/}.
+
+When the \isi{possessive} \is{clitics}clitic //\ipa{=bv̩˧}// is added after a~\is{monosyllables}monosyllabic noun, yielding, for example,
+/\ipa{ʈʂʰæ˧=bv̩˥}/ ‘of the deer’, contours unfold over the two syllables of the resulting combination: \mbox{//LH//}
+yields /L+H/ (as does \mbox{//LM//}, following neutralization with \mbox{//LH//}), and \mbox{//MH//} yields /M+H/. 
+%The
+%non"=\is{tonal contour}contour tones, \mbox{//M//}, //L// and \mbox{//\#H//}, do not affect the \isi{possessive}, which surfaces with
+%default /M/.
+
+This last point offers evidence for the distinction between contours (\mbox{//LM//}, \mbox{//LH//} and
+\mbox{//MH\#//}) on the one hand and the \is{floating tone}floating H tone (\mbox{//\#H//}) on the other. The second part of
+a~\is{tonal contour}contour is realized on the \isi{possessive}; the \is{floating tone}floating H tone is not.\footnote{How come the {possessive} {clitic} gets a~H level when the noun has a~MH {contour}, but not when the noun has a~floating H tone? One way to think of it (which admittedly amounts to no more than an \textit{ad hoc} conjecture, based on the investigator's non"=native introspection) is that providing {anchorage} for a~\mbox{//\#H//} tone is quite a~different matter from hosting a~H tone level that is part of a~\mbox{//MH\#//} tone {anchored} to a~preceding syllable. The \mbox{//MH\#//} tone has a~stable {anchorage} on the noun's last syllable, which allows it to express itself in the usual way, unfolding over two successive syllables: the noun's last syllable, which gets the M part of the {contour}, and the {clitic}, which gets its H part. The H level is jutting out from the noun, as it were: it is part of a~MH sequence which is firmly moored at one of its ends (the M part), though not at the other. This can be thought of as a~case of “tonal protrusion”: the {contour} holds firm, its M part sitting on the noun's last syllable, and its H part jutting out over the {clitic}. By contrast, the \mbox{//\#H//} tone does not get to express itself because the stage of {anchorage} is not reached in the first place. In derivational terms, a~distinction is to be made between \textit{tonal anchoring} and the later stage of \textit{{contour} unfolding}.}
+
+A schematic representation in successive stages is presented in \figref{fig:tonereassociation}, taking as an example a~disyllabic noun that belongs in the \mbox{//MH\#//} tone category. Stage 1 is the input: the noun has \mbox{//MH\#//} tone, and the \isi{copula} has //L// tone.\footnote{About the {copula}'s tone, see the argument set out in \sectref{sec:thelexicaltonesofverbs}.} Stage 2 shows the \is{anchorage}anchoring of the MH tone pattern onto the last syllable of the lexical word. This is part of this lexical tone's specification, as indicated by the symbol \# in the label MH\#. Stage 3 represents one"=to"=one mapping of levels to available syllables. The MH \is{tonal contour}contour associates to syllables one by one, starting from its point of \isi{anchorage}, namely the noun’s last syllable, which receives M. The H level associates to the following syllable: the \isi{copula}. This leaves no syllable available for the \isi{copula}’s lexical L tone, which remains unassociated, and does not surface at all. The first syllable of the noun, which has not been assigned a~tone in the above process of association of the lexical tone, remains toneless. Stage 4 represents the hypothesized process whereby it receives a~M level, by default. Stage 5 is the surface phonological result. 
+
+\begin{figure}[p]
+  \caption[{A detailed representation of tone"=to"=syllable association for ‘is (a/the) cat'.}]{A detailed representation of tone"=to"=syllable association for /\ipa{hwɤ˧li˧ ɲi˥}/ ‘is \mbox{(a/the)} cat'.}
+  \begin{tikzpicture}
+  \node (1) at (0.5,-0.5) {MH\#};
+  \node (4) at (3,-0.5) {L};
+  
+  \node (2) at (0,-1.5) {σ};
+  \node (3) at (1,-1.5) {σ};
+  \node (5) at (3,-1.5) {σ};
+
+  \node [anchor=mid] (s1l) at (0.5,-2) {/\ipa{hwɤ.li}/ ‘cat’};
+%  \node (s1ll) at (0.5,-2.5) {lexical tone: MH\#};
+
+  \node [anchor=mid] (s1lll) at (3,-2) {/\ipa{ɲi}/ \textsc{copula}};
+%  \node (s1llll) at (4,-2.5) {lexical tone: L};
+  
+  \node[text width=40mm] (s1) at (-3,-0.75) {Stage 1:\\ input};
+
+
+  
+  \node (12) at (0.5,-4) {MH\#};
+  \node (42) at (2,-4) {L};
+  
+  \node (22) at (0,-5.5) {σ};
+  \node (32) at (1,-5.5) {σ};
+  \node (52) at (2,-5.5) {σ};
+
+  \node[text width=40mm] (s2) at (-3,-4.75) {Stage 2:\\ \is{anchorage}anchoring of MH\# to\\ its
+    phonologically\\ specified locus};
+
+  \draw[decoration={markings,mark=at position 1 with
+      {\arrow[scale=2,>=stealth]{>}}},postaction={decorate}] (12) -- (32);
+  
+
+
+  \node (13) at (1,-7) {M};
+  \node (63) at (1.5,-7) {H};
+  \node (43) at (2,-7) {L};
+  
+  \node (23) at (0,-8.5) {σ};
+  \node (33) at (1,-8.5) {σ};
+  \node (53) at (2,-8.5) {σ};
+
+  \node[text width=40mm] (s3) at (-3,-7.75) {Stage 3:\\ one-to-one mapping\\ of levels to available syllables};
+
+  \draw[decoration={markings,mark=at position 1 with
+      {\arrow[scale=2,>=stealth]{>}}},postaction={decorate}] (13) -- (33);
+  \draw[decoration={markings,mark=at position 1 with
+      {\arrow[scale=2,>=stealth]{>}}},postaction={decorate}] (63) -- (53);
+
+
+  \node (14) at (0,-10) {M};
+  \node (64) at (1,-10) {M};
+  \node (44) at (2,-10) {H};
+  
+  \node (24) at (0,-11.5) {σ};
+  \node (34) at (1,-11.5) {σ};
+  \node (54) at (2,-11.5) {σ};
+
+  \node[text width=40mm] (s4) at (-3,-10.5) {Stage 4:\\ addition of default\\ M tone};
+
+  \draw[decoration={markings,mark=at position 1 with
+      {\arrow[scale=2,>=stealth]{>}}},postaction={decorate}] (14) -- (24);
+  \draw (64) -- (34);
+  \draw (44) -- (54);
+
+
+  \node (14) at (0,-13) {M};
+  \node (64) at (1,-13) {M};
+  \node (44) at (2,-13) {H};
+  
+  \node (24) at (0,-14.5) {σ};
+  \node (34) at (1,-14.5) {σ};
+  \node (54) at (2,-14.5) {σ};
+
+  \node[text width=40mm] (s4) at (-3,-13.5) {Stage 5:\\ resulting surface-\\ phonological tone};
+
+  \draw (14) -- (24);
+  \draw (64) -- (34);
+  \draw (44) -- (54);
+\end{tikzpicture}
+\label{fig:tonereassociation}
+\end{figure}
+
+For this tonal category of nouns, the process of association for the \isi{possessive} \is{clitics}clitic //\ipa{=bv̩˧}// is the same, as shown in \figref{fig:tonereassociationMHclitic}.
+
+\begin{figure}[p]
+	\caption[{A detailed representation of tone"=to"=syllable association for ‘of (a/the) cat'.}]{A detailed representation of tone"=to"=syllable association for /\ipa{hwɤ˧li˧=bv̩˥}/ ‘of \mbox{(a/the)} cat'.}
+	\begin{tikzpicture}
+	\node (1) at (0.5,-0.5) {MH\#};
+	\node (4) at (3,-0.5) {M};
+	
+	\node (2) at (0,-1.5) {σ};
+	\node (3) at (1,-1.5) {σ};
+	\node (5) at (3,-1.5) {σ};
+	
+	\node [anchor=mid] (s1l) at (0.5,-2) {/\ipa{hwɤ.li}/ ‘cat’};
+	%  \node (s1ll) at (0.5,-2.5) {lexical tone: MH\#};
+	
+	\node [anchor=mid] (s1lll) at (3,-2) {/\ipa{bv̩}/ \textsc{poss}};
+	%  \node (s1llll) at (4,-2.5) {lexical tone: L};
+	
+	\node[text width=40mm] (s1) at (-3,-0.75) {Stage 1:\\ input};
+	
+	
+	
+	\node (12) at (0.5,-4) {MH\#};
+	\node (42) at (2,-4) {M};
+	
+	\node (22) at (0,-5.5) {σ};
+	\node (32) at (1,-5.5) {σ};
+	\node (52) at (2,-5.5) {σ};
+	
+	\node[text width=40mm] (s2) at (-3,-4.75) {Stage 2:\\ \is{anchorage}anchoring of MH\# to\\ its
+		phonologically\\ specified locus};
+	
+	\draw[decoration={markings,mark=at position 1 with
+		{\arrow[scale=2,>=stealth]{>}}},postaction={decorate}] (12) -- (32);
+	
+	
+	
+	\node (13) at (1,-7) {M};
+	\node (63) at (1.5,-7) {H};
+	\node (43) at (2,-7) {M};
+	
+	\node (23) at (0,-8.5) {σ};
+	\node (33) at (1,-8.5) {σ};
+	\node (53) at (2,-8.5) {σ};
+	
+	\node[text width=40mm] (s3) at (-3,-7.75) {Stage 3:\\ one-to-one mapping\\ of levels to available syllables};
+	
+	\draw[decoration={markings,mark=at position 1 with
+		{\arrow[scale=2,>=stealth]{>}}},postaction={decorate}] (13) -- (33);
+	\draw[decoration={markings,mark=at position 1 with
+		{\arrow[scale=2,>=stealth]{>}}},postaction={decorate}] (63) -- (53);
+	
+	
+	\node (14) at (0,-10) {M};
+	\node (64) at (1,-10) {M};
+	\node (44) at (2,-10) {H};
+	
+	\node (24) at (0,-11.5) {σ};
+	\node (34) at (1,-11.5) {σ};
+	\node (54) at (2,-11.5) {σ};
+	
+	\node[text width=40mm] (s4) at (-3,-10.5) {Stage 4:\\ addition of default\\ M tone};
+	
+	\draw[decoration={markings,mark=at position 1 with
+		{\arrow[scale=2,>=stealth]{>}}},postaction={decorate}] (14) -- (24);
+	\draw (64) -- (34);
+	\draw (44) -- (54);
+	
+	
+	\node (14) at (0,-13) {M};
+	\node (64) at (1,-13) {M};
+	\node (44) at (2,-13) {H};
+	
+	\node (24) at (0,-14.5) {σ};
+	\node (34) at (1,-14.5) {σ};
+	\node (54) at (2,-14.5) {σ};
+	
+	\node[text width=40mm] (s4) at (-3,-13.5) {Stage 5:\\ resulting surface-\\ phonological tone};
+	
+	\draw (14) -- (24);
+	\draw (64) -- (34);
+	\draw (44) -- (54);
+	\end{tikzpicture}
+	\label{fig:tonereassociationMHclitic}
+\end{figure}
+
+By contrast with MH\#, the \is{floating tone}floating H tone (\#H) does not \is{anchorage}anchor to any of the syllables of the word to which it is lexically attached, and the \isi{possessive} \is{clitics}clitic is unable to provide such \isi{anchorage}. Since this H tone receives syllabic \isi{anchorage} neither onto the word to which it is lexically attached, nor on the \isi{possessive} \is{clitics}clitic that follows it, it remains unassociated, and does not surface at all in this context. This is represented as \figref{fig:tonereassociationfloating}. The figure for the ‘flea' tone, H\$, would be identical with \figref{fig:tonereassociationfloating}: the \isi{possessive} \is{clitics}clitic is not a~suitable host, so that the H\$ remains unassociated, and does not surface at all in this context. 
+
+
+\begin{figure}[p]
+	\caption[{A detailed representation of tone"=to"=syllable association for ‘of (a/the) colt'.}]{A detailed representation of tone"=to"=syllable association for /\ipa{ʐwæ˧zo˧{\allowbreak}=bv̩˧}/ ‘of \mbox{(a/the)} colt'.}
+	\begin{tikzpicture}
+	\node (1) at (0.5,-0.5) {\#H};
+	\node (4) at (3,-0.5) {M};
+	
+	\node (2) at (0,-1.5) {σ};
+	\node (3) at (1,-1.5) {σ};
+	\node (5) at (3,-1.5) {σ};
+	
+	\node [anchor=mid] (s1l) at (0.5,-2) {/\ipa{ʐwæ.zo}/ ‘colt’};
+	%  \node (s1ll) at (0.5,-2.5) {lexical tone: MH\#};
+	
+	\node [anchor=mid] (s1lll) at (3,-2) {/\ipa{bv̩}/ \textsc{poss}};
+	%  \node (s1llll) at (4,-2.5) {lexical tone: L};
+	
+	\node[text width=40mm] (s1) at (-3,-0.75) {Stage 1:\\ input};
+	
+	
+	
+	\node (12) at (0.5,-4) {\#H};
+	\node (42) at (2,-4) {M};
+	
+	\node (22) at (0,-5.5) {σ};
+	\node (32) at (1,-5.5) {σ};
+	\node (52) at (2,-5.5) {σ};
+	
+	\node[text width=40mm] (s2) at (-3,-4.75) {Stage 2:\\ failure of \#H to get\\ \isi{anchorage}, for want of\\ a~suitable host};
+	
+%	\draw[decoration={markings,mark=at position 1 with {\arrow[scale=2,>=stealth]{>}}},postaction={decorate}] (12) -- (52);
+	
+	
+	
+%	\node (13) at (1,-7) {};
+%	\node (63) at (1.5,-7) {};
+	\node (43) at (2,-7) {M};
+	
+	\node (23) at (0,-8.5) {σ};
+	\node (33) at (1,-8.5) {σ};
+	\node (53) at (2,-8.5) {σ};
+	
+	\node[text width=40mm] (s3) at (-3,-7.75) {Stage 3:\\ one-to-one mapping\\ of levels to available syllables};
+	
+	\draw[decoration={markings,mark=at position 1 with
+		{\arrow[scale=2,>=stealth]{>}}},postaction={decorate}] (43) -- (53);
+	
+	
+	\node (14) at (0,-10) {M};
+	\node (64) at (1,-10) {M};
+	\node (44) at (2,-10) {M};
+	
+	\node (24) at (0,-11.5) {σ};
+	\node (34) at (1,-11.5) {σ};
+	\node (54) at (2,-11.5) {σ};
+	
+	\node[text width=40mm] (s4) at (-3,-10.5) {Stage 4:\\ addition of default\\ M tones};
+	
+	\draw[decoration={markings,mark=at position 1 with
+		{\arrow[scale=2,>=stealth]{>}}},postaction={decorate}] (14) -- (24);
+	\draw[decoration={markings,mark=at position 1 with
+		{\arrow[scale=2,>=stealth]{>}}},postaction={decorate}] (64) -- (34);
+	\draw (44) -- (54);
+	
+	
+	\node (14) at (0,-13) {M};
+	\node (64) at (1,-13) {M};
+	\node (44) at (2,-13) {M};
+	
+	\node (24) at (0,-14.5) {σ};
+	\node (34) at (1,-14.5) {σ};
+	\node (54) at (2,-14.5) {σ};
+	
+	\node[text width=40mm] (s4) at (-3,-13.5) {Stage 5:\\ resulting surface-\\ phonological tone};
+	
+	\draw (14) -- (24);
+	\draw (64) -- (34);
+	\draw (44) -- (54);
+	\end{tikzpicture}
+	\label{fig:tonereassociationfloating}
+\end{figure}
+
+The behaviour of the word-final H tone (H\#) is shown in \figref{fig:tonereassociationfinal}: in this case, the L tone on the \is{clitics}clitic results from an~exceptionless {phonological rule} whereby all tones following H are lowered to L (see \sectref{sec:alistoftonerules}). 
+
+\begin{figure}[p]
+	\caption[{A detailed representation of tone"=to"=syllable association for ‘of (a/the) squirrel'.}]{A detailed representation of tone"=to"=syllable association for /\ipa{hwæ˧ʈʂæ˥{\allowbreak}=bv̩˩}/ ‘of \mbox{(a/the)} squirrel'.}
+	\begin{tikzpicture}
+		\node (1) at (0.5,-0.5) {H\#};
+		\node (4) at (3.5,-0.5) {M};
+		
+		\node (2) at (0,-1.5) {σ};
+		\node (3) at (1,-1.5) {σ};
+		\node (5) at (3.5,-1.5) {σ};
+		
+		\node [anchor=mid] (s1l) at (0.5,-2) {/\ipa{hwæ.ʈʂæ}/ ‘squirrel’};
+		%  \node (s1ll) at (0.5,-2.5) {lexical tone: MH\#};
+		
+		\node [anchor=mid] (s1lll) at (3.5,-2) {/\ipa{bv̩}/ \textsc{poss}};
+	%	\node [anchor=mid] (s1lll) at (3,-2) {/\ipa{bv̩}/ \textsc{poss}};
+		%  \node (s1llll) at (4,-2.5) {lexical tone: L};
+		
+		\node[text width=55mm] (s1) at (-3,-0.75) {Stage 1:\\ input};
+		
+		
+		
+		\node (12) at (1.5,-4) {H\#};
+		\node (42) at (3,-4) {M};
+		
+		\node (22) at (1,-5.5) {σ};
+		\node (32) at (2,-5.5) {σ};
+		\node (52) at (3,-5.5) {σ};
+		
+		\node[text width=55mm] (s2) at (-3,-4.75) {Stage 2:\\ \is{anchorage}anchoring of H\# to its
+			phonologically specified locus};
+		
+		\draw[decoration={markings,mark=at position 1 with
+			{\arrow[scale=2,>=stealth]{>}}},postaction={decorate}] (12) -- (32);
+		
+	%	\draw[decoration={markings,mark=at position 1 with {\arrow[scale=2,>=stealth]{>}}},postaction={decorate}] (42) -- (52);
+		
+		
+		
+		\node (13) at (2,-7) {H};
+	%	\node (63) at (1.5,-7) {H};
+		\node (43) at (3,-7) {M};
+		
+		\node (23) at (1,-8.5) {σ};
+		\node (33) at (2,-8.5) {σ};
+		\node (53) at (3,-8.5) {σ};
+		
+		\node[text width=55mm] (s3) at (-3,-7.75) {Stage 3:\\ syllabic anchoring \\ of the H level};
+		
+		\draw[decoration={markings,mark=at position 1 with
+			{\arrow[scale=2,>=stealth]{>}}},postaction={decorate}] (13) -- (33);
+	%	\draw[decoration={markings,mark=at position 1 with {\arrow[scale=2,>=stealth]{>}}},postaction={decorate}] (43) -- (53);
+		
+		
+		%\node (14) at (0,-10) {M};
+		\node (64) at (2,-10) {H};
+		\node (44) at (3,-10) {L};
+		
+		\node (24) at (1,-11.5) {σ};
+		\node (34) at (2,-11.5) {σ};
+		\node (54) at (3,-11.5) {σ};
+		
+		\node[text width=55mm] (s4) at (-3,-10.75) {Stage 4: assignment of final L by {phonological rule}: H can only be followed by L. The suffix's lexical M is deleted.};
+		
+		% \draw (14) -- (24);
+		\draw (64) -- (34);
+		%	\draw (44) -- (54);
+		\draw[decoration={markings,mark=at position 1 with
+			{\arrow[scale=2,>=stealth]{>}}},postaction={decorate}] (44) -- (54);
+
+		% beginning of stage 5
+		\node (14) at (1,-13) {M};
+		\node (64) at (2,-13) {H};
+		\node (44) at (3,-13) {L};
+		
+		\node (24) at (1,-14.5) {σ};
+		\node (34) at (2,-14.5) {σ};
+		\node (54) at (3,-14.5) {σ};
+		
+		\node[text width=55mm] (s4) at (-3,-13.75) {Stage 5:\\ addition of default M tone to the syllable that remained toneless};
+		
+		\draw[decoration={markings,mark=at position 1 with
+			{\arrow[scale=2,>=stealth]{>}}},postaction={decorate}] (14) -- (24);
+		\draw (64) -- (34);
+		\draw (44) -- (54);
+	\end{tikzpicture}
+	\label{fig:tonereassociationfinal}
+\end{figure}
+
+These step"=by"=step representations go into more detail than tonologists with an~experience of level tones may find necessary. It does not appear indispensible to draw similar figures for the other lexical categories of Yongning Na, though this could be offered as an~exercise for an~introductory phonology class. 
+%(If you are reading this during my lifetime, you are welcome to get in touch to discuss issues of Yongning Na tonology and tonological representations.) 
+
+\Hack{\newpage}
+
+\subsection{M as a~default tone}
+\label{sec:analysisofmasadefaulttone}
+
+The analysis set out above assumes that M serves as a~default tone: syllables that are not specified for
+tone receive M. For instance, a~\mbox{//\#H//} tone carried by a~disyllabic noun can only manifest itself
+on a~following word: the H tone, though lexically attached to the noun, never appears on the noun
+itself. Both syllables of the noun receive /M/ tone in the surface phonological form. Under the
+present analysis, this is understood as default tone assignment. Likewise, /M.L/ is observed as
+a~surface pattern on disyllabic and polysyllabic words, such as /\ipa{dɑ˧ʝi˩}/ ‘mule’, but this
+pattern is analyzed as the manifestation of a~lexical"=word"=final L tone (notation: //L\#//), the /M/
+tone on the first syllable being a~default tone, not a~lexically specified tone. Evidence for this
+analysis will be presented in the course of the discussion, adducing evidence from the combinatorial properties
+of tones, such as the tone rules that apply in compounding.
+
+One may be tempted to push this analysis further and try avoiding specifying the M tone anywhere in
+the inventory of lexical tones. As stated above, disyllables such as /\ipa{dɑ˧ʝi˩}/ ‘mule’, with
+a~surface phonological M.L pattern, are analyzed as having a~final L (notation: //L\#//), the M tone
+on the first syllable being a~default tone, whereas disyllables such as /\ipa{bo˩mi˧}/, with surface
+L.M, are analyzed as having a~phonological \mbox{//LM//} tone, i.e.\ specifying phonologically the M tone of
+their second syllable. The reason for this analysis is that L tone spreads progressively
+(“left"=to"=right”) onto syllables that are unspecified for tone (this is referred to as Rule 1; see
+\sectref{sec:asummaryoftonetosyllableassociationrules} for further detail). In \tabref{tab:thelexicaltonesofdisyllabicnouns}, disyllables that carry L tone on both of their syllables
+are accordingly analyzed as possessing a~simple lexical L tone. In transcriptions, L tone is
+indicated on both syllables by convention (e.g.~the word for ‘dog’ is written //\ipa{kʰv̩˩mi˩}//), so as to stay
+close to \is{form!surface}surface forms, but at a~lexical level, these words are analyzed as carrying a~simple //L//
+tone. Disyllabic nouns that have a~/L.M/ pattern (L on first syllable, M on second syllable) are
+analyzed as having a~phonological /M/ on the second syllable, blocking L-tone \is{tone spreading}spreading.
+
+Under an~approach dispensing with M at the lexical level, the syllabic \is{anchorage}anchoring of all L tones
+would need to be specified. This would to some extent be parallel to H tones, which fall into three categories that have different modes of
+association to the syllabic string: H\#, H\# and H\$. However, if the L.M pattern were
+reanalyzed as a~word"=initial L tone, it would be necessary to specify that it does not spread,
+unlike other L tones. Reanalyzing the \mbox{//LM//} category as a~non"=\is{tone spreading}spreading L, contrasting with
+a~\is{tone spreading}spreading L, is a~theoretical possibility, but one which (at present) appears to me as less consistent with the rest of the description than positing a~combination of two levels as the underlying lexical tone. 
+
+Yet another alternative would be to analyze the /L.H/, /M.L/ and /L.L/ surface patterns as the
+realization of initial //L//, final //L//, and //L.L// (with L tone specified on both syllables),
+respectively, avoiding any reference to L-tone \is{tone spreading}spreading. However, L-tone \is{tone spreading}spreading is such
+a~commonly attested process in the Alawa dialect of Yongning Na that this does not appear as a~promising strand of analysis. 
+
+Moreover, any description avoiding M tones at the lexical level would require another device to describe MH \is{tonal contour}contour tones, since they cannot be described simply as H tones. It would be necessary to posit a~separate type of H tones:
+a~{contour}"=creating H tone, in addition to the three types recognized so far. 
+
+For these various reasons, it seems reasonable to adopt a~model using M in the lexical
+specification of some of the categories.
+
+
+\subsection{The notation of tonal categories in lexical entries}
+\label{sec:thenotationoftonalcategoriesinlexicalentries}
+
+This section explains the choices made for the notation of tonal categories in lexical entries
+(as head words in dictionary entries, and in interlinear glossing of texts), as exemplified for nouns in \tabref{tab:thelexicaltonesofmonosyllabicanddisyllabicnouns}a--b.
+
+One typographical option would be to indicate the phonological category in superscript at the beginning or end of
+the word, e.g.~//\ipa{ʐwæ\textsuperscript{\#H}}// for ‘horse’, and //\ipa{õ.dv̩\textsuperscript{LM+MH\#}}// for ‘wolf’. This notation, which
+separates tone from vowels and consonants, makes good sense in view of the analysis proposed here: that tone in Na is lexically associated to entire lexemes,
+not to individual syllables. On the other hand, working out the tone"=to"=syllable mapping requires
+complete familiarity with the mapping rules of Yongning Na. So it appeared better to offer a~transcription
+that looks more similar to the \is{form!surface}surface phonology, indicating a~tone at the end of each syllable. Following
+standard usage, International Phonetic Alphabet tone letters \citep{chao1930} were chosen: \ipa{˥} for
+High, \ipa{˧} for Mid, \ipa{˩} for Low, \ipa{˩˧} for Low"=to"=Mid, \ipa{˩˥} for Low"=to"=High, and \ipa{˧˥} for Mid"=to"=High.
+
+This is strictly equivalent to Africanist notation by means of accents: for instance, //\ipa{bo˩˧}// ‘pig’
+could be written as //\ipa{bo}// in Africanist notation, and //\ipa{ʐæ˩˥}// ‘leopard’ as //\ipa{ʐæ̌}//. \is{tone letters|textbf}Tone letters are favoured over accents for want
+of a~satisfactory solution to the typographic issue of combinations of diacritics, e.g.~how to
+indicate a~rising \is{tonal contour}contour on a~syllable such as /\ipa{ɻ̍̃}{\kern2pt}/.
+
+Instead of \is{tone letters}tone letters, numbers are favoured in {Chinese}"=language publications. The strict equivalents would be the following: \ipa{˥} corresponds to \ipa{⁵}, \ipa{˧} to \ipa{³}, \ipa{˩} to \ipa{¹}, \ipa{˩˧} to \ipa{¹³}, \ipa{˩˥} to \ipa{¹⁵}, and \ipa{˧˥} to
+\ipa{³⁵}. There are further complexities here, however. {Chinese} authors use at least two numbers for each tone: one for its beginning and one for its endpoint. To reflect the insight that there is no phonologically relevant change in pitch in the course of the H, M and L tones, these three level tones could be transcribed by doubling the number indicating their relative pitch level, transcribing the H tone as \ipa{⁵⁵}, the M tone as \ipa{³³}, and the L tone as \ipa{¹¹}. But this notation would differ from {Chinese} linguists' conventions, because the systematic use of at least two numbers leads them to pay attention to any differences in pitch between a~tone's beginning and endpoint (differences which are crucial in the description of systems where tones do not simply consist of sequences of levels: see \sectref{sec:typologicalbackgroundtotheclassificationofyongningnatonesasleveltones}). For instance, since the L tone in Yongning Na is often realized phonetically as a~fall in pitch, rather than as a~flat, sustained low pitch, it will be transcribed by {Chinese} linguists as \ipa{²¹} or \ipa{³¹} (e.g.~the L tone of \ili{Naxi} is transcribed as \ipa{³¹} by \citealt{heetal1985}). Notation as \ipa{¹¹} would not be an accurate representation of the Low tone's phonetic realization, and would thus be counterintuitive to users accustomed to this system. Notation as \ipa{³¹} would obscure the phonological nature of the L tone, however, wrongly suggesting that tones “\ipa{³¹}” (i.e.\ L tone in the present description) and “\ipa{¹³}” (i.e.\ LM tone) are each other's mirror image.\footnote{Reflections about notational choices for level tones and their influence on the phonological analysis of tone in {Naish} languages are set out in \citet{michaud2013c}.} For tonologists accustomed to {Chinese}"=style tone numbers, I therefore strongly recommend using the following set of equivalences, which may initially seem counterintuitive, but which are less likely to lead to phonological misinterpretations: \ipa{⁵⁵} for \ipa{˥}, \ipa{³³} for \ipa{˧}, \ipa{¹¹} for \ipa{˩}, \ipa{¹³} for \ipa{˩˧}, \ipa{¹⁵} for \ipa{˩˥}, and \ipa{³⁵} for \ipa{˧˥}. 
+
+In the process of mapping tonal categories to syllables written in the International Phonetic Alphabet, some cases are simple: for
+instance, the tone category LM can be represented by associating both levels to a~{monosyllable}, for
+instance //\ipa{bo˩˧}// ‘pig’, and distributing them over the two syllables of a~disyllable, for instance
+//\ipa{bo˩mi˧}// ‘sow’. But not all cases are that straightforward, making it necessary to provide detailed explanations about the notational choices made here.
+
+The first choice consists in writing the \is{floating tone}floating H tone of monosyllabic nouns as a~simple H tone, without indicating in the notation that this tone is \is{floating tone}floating. Thus, ‘horse’ is transcribed simply as //\ipa{ʐwæ˥}//, rather than //\ipa{ʐwæ\#˥}//. The reason for this choice is that, on monosyllables, there is only one type of H tone, namely this \is{floating tone}floating H, that can only surface after the syllable to which it is lexically attached. In the
+absence of a~distinction among types of H tones, it appeared economical to dispense with
+the added pound symbol ‘\ipa{\#}’, which indicates the tone's mode of syllabic association (namely: after the word's last syllable). 
+
+For nouns of two syllables or more, on the other hand, there are three types of H tones, namely
+H\#, \#H and H\$, so an~indication about syllabic \isi{anchorage} cannot be dispensed with when transcribing the lexical form of nouns. At
+least two diacritics need to be used to make the three"=way distinction among H\#, \#H and H\$. The
+first of these three is indicated by a~simple H-tone mark \ipa{˥} on the last syllable, as its mode of {anchoring} appears as
+phonologically simplest: sitting inert on the last syllable, and never moving from there. Hence
+//\ipa{hwæ˧ʈʂæ˥}//, not //\ipa{hwæ˧ʈʂæ˥\#}//, for ‘squirrel’. The motivation for indicating a~Mid tone \ipa{˧} on the first syllable of this word is to keep the notation of lexical forms close to the surface phonological forms: when a~disyllable with lexical H\#, \#H or H\$ tone is realized \is{form!in isolation}in isolation, its first syllable carries M tone, interpreted here as a~default tone (added to a~syllable that is lexically unspecified for tone: see \sectref{sec:analysisofmasadefaulttone}). When writing the lexical (deep"=phonological) form of words, it appeared better to indicate
+a~tone for each syllable. The same reasoning leads to notation as //\ipa{ʐwæ˧zo\#˥}//, not //\ipa{ʐwæ.zo\#˥}//, for ‘colt’ ; //\ipa{kv̩˧ʂe˥\$}//, not
+//\ipa{kv.ʂe˥\$}//, for ‘flea’; and //\ipa{hwɤ˧li˧˥}//, not //\ipa{hwɤ.li˧˥}//, for ‘cat’.
+
+In the case of the L tone, the choice to indicate a~tone for each syllable introduces some redundancy. For instance, ‘dog’ is transcribed
+as //\ipa{kʰv̩˩mi˩}//, not //\ipa{kʰv̩˩mi}//: the L tone is indicated on both
+syllables. 
+
+Conversely, the tone pattern analyzed as LM+\#H is, by convention, represented in the lexical form
+of disyllables simply as L on the first syllable and \#H on the second, because indicating the M
+tone as a~tone letter would wrongly suggest the presence of a~\is{tonal contour}contour on the syllable to which it
+would be associated. Hence, the notation chosen is //\ipa{nɑ˩hĩ\#˥}// for ‘{Naxi} (person)’.
+%, rather than
+%//\ipa{nɑ˩˧hĩ\#˥}// or //\ipa{nɑ˩hĩ˧\#˥}//.
+
+
+\subsection{Attested and unattested lexical tones}
+\label{sec:attestedandunattestedlexicaltones}
+
+The static regularities that came to light in \sectref{sec:astaticinventoryoftonepatterns} can be reformulated in dynamic terms, as resulting
+from a~set of phonological \is{tone rules}tone rules. These tone rules are set out in \sectref{sec:alistoftonerules}, and discussed throughout Chapter~\ref{chap:toneassignmentrulesandthedivisionoftheutteranceintotonegroups}, which also presents the
+phonological unit within which the rules apply: the {tone group}. Here is a~preview of the full set of rules; the reader will need to make frequent reference to it when reading the following chapters. 
+
+\begin{enumerate}[leftmargin=2cm, itemsep=0pt, labelwidth=\widthof{Rule~1:}]%[topsep=12pt, partopsep=0pt]
+%\begin{enumerate}[leftmargin=!,labelwidth=\widthof{Rule~1:}]
+	\item[Rule~1:] L tone spreads progressively (“left"=to"=right”) onto syllables that are unspecified for tone.
+	\item[Rule~2:] Syllables that remain unspecified for tone after the application of Rule 1 receive M tone.
+	\item[Rule~3:] In tone"=group"=initial position, H and M are neutralized to M.
+	\item[Rule~4:] The syllable following a~H-tone syllable receives L tone.
+	\item[Rule~5:] All syllables following a~H.L or M.L sequence receive L tone.
+	\item[Rule~6:] In tone"=group"=final position, H and M are neutralized to H if they follow a~L tone.
+	\item[Rule~7:] If a~\isi{tone group} only contains L tones, a~post"=lexical H tone is added to its last syllable.
+\end{enumerate}
+
+The key facts for the present discussion are
+ the following: (i)~L tone spreads progressively (“left"=to"=right”), (ii)~all tones following H are lowered
+ to L, and (iii)~H and M are neutralized to M in tone"=group"=initial position. These generalizations, together with the observation that there are no falling contours on a~single
+syllable, rule out all of the unattested lexical tone patterns for monosyllables, and most of the unattested
+patterns for disyllables, such as $\ddagger${\kern2pt}H.L, $\ddagger${\kern2pt}H.M, $\ddagger${\kern2pt}M.LM, and $\ddagger${\kern2pt}ML.M. On the other hand, there is a~combination that is compatible with the
+language’s phonotactics and yet unattested: there is no //LM\mbox{+H\$//} lexical tone category of disyllables, whereas there
+are //LM+MH\#// and //LM+\#H// categories. (As for \mbox{//LM}+\mbox{H\#//,} it is undistinguishable from
+\mbox{//LH//}, since for a~disyllable both formulae result in the same tonal assignment: L on the first
+syllable, and H on the second.) This gap can be interpreted as evidence that \mbox{//H\$//} is relatively marginal in the system.
+
+
+\subsection{Phonological regularities and morphotonological oddities}
+\label{sec:reflectionsonthestructureofthesystemphonologicalregularitiesandmorphophonologicaloddities}
+
+
+Looking back at the data in \tabref{tab:thelexicaltonesofmonosyllabicanddisyllabicnouns}a--b, it is tempting to look for phonological \is{irregularities}regularities that would
+capture all the observed patterns. However, such a~search would come up against facts that resist phonological generalizations. 
+%The search for phonological regularities is soon up against sets
+%of facts that resist phonological generalizations, however. 
+For instance, there is no obvious reason
+why L should surface as M \is{form!in isolation}in isolation. This may have to do with the prohibition of all-L tone
+groups (about which see \sectref{sec:ltonesexistenceofarepairphenomenonforallltonegroups}), and \textit{a~fortiori} all-L utterances; but for verbs this is
+repaired by adding a~post"=lexical final H tone, so that verbs with lexical \mbox{//L//} tone surface with a
+\mbox{/LH/} \is{tonal contour}contour when they are spoken \is{form!in isolation}in isolation (see \tabref{tab:Utonesofverbs}). If the tone system were based on a~set of
+phonological rules (rules applying uniformly in all morphosyntactic contexts), lexical //L// on
+a~noun would be expected to surface as /LH/, not as /M/. A~similarly puzzling case is that of the
+//L// tone on disyllabic nouns. A~word such as //\ipa{kʰv̩˩mi˩}// ‘dog’ yields /\ipa{kʰv̩˩mi˩˥}/ in
+isolation, as expected, but when followed by the \isi{copula} it yields /\ipa{kʰv̩˩mi˩ ɲi˥}/ ‘is \mbox{(a/the)}
+dog’: the \isi{copula} loses its lexical //L// tone. There is no obvious reason why this should be so: one
+could have expected a~/L.L.L/ sequence, //\ipa{†kʰv̩˩mi˩ ɲi˩}//, realized as /\ipa{†kʰv̩˩mi˩ ɲi˩˥}/ following the addition of
+a~post"=lexical H tone to avoid an~all-L \isi{tone group}.
+
+This asymmetry in the tonal treatment of the \isi{copula} after a~//L//-tone noun, depending on the number
+of syllables in the noun, points to a~crucial aspect of Yongning Na tone: many tone rules have
+narrowly restricted fields of application; they apply in highly specific morphosyntactic contexts,
+and are sensitive to the number of syllables (and internal makeup) of the morphemes at issue.
+
+These reflections about the overall outlook of the Yongning Na tone system will be taken up in \sectref{sec:morphophonologicalcomplexity}, in light of the account of Na morphotonology to which we now proceed (Chapters~\ref{chap:compoundnouns}-\ref{chap:verbsandtheircombinatoryproperties}).

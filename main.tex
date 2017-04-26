@@ -1,0 +1,137 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                              %%%
+%%%     Language Science Press Master File       %%%
+%%%         follow the instructions below        %%%
+%%%                                              %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ 
+% Everything following a % is ignored
+% Some lines start with %. Remove the % to include them
+
+
+% cmld: coloured table cells
+\PassOptionsToPackage{table}{xcolor} % cmld: this needs to be here to avoid (1) an option clash; (2)
+                                % having to change langsci.cls; (3) using colortbl and cell still
+                                % not getting coloured
+
+\documentclass[output=book,   
+	      modfonts,nonflat
+	      ,nobabel 
+% 	      ,draftmode,draft  
+	      %,showindex 
+	      %,colorlinks    
+		  ]{langsci/langscibook}    
+  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                              %%%
+%%%          additional packages                 %%%
+%%%                                              %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% put all additional commands you need in the 
+% following files. 
+
+\input{localmetadata.tex}
+\input{localpackages.tex}
+\input{localhyphenation.tex}
+% \input{localcommands.tex} % cmld: localcommands.tex will now be loaded after \renewcommand{\exfont}{\upshape} to avoid it being overwritten
+\bibliography{alexis}
+
+
+% % temporary workaround to fix wrong wrapping for \verb in bibtex
+\makeatletter
+\def\blx@maxline{77}
+\makeatother
+
+% \includeonly{ 
+% % indexed/01  %OK
+% % ,indexed/02  %Ok
+% % ,indexed/03   % OK
+% % ,indexed/04 %OK
+% % ,indexed/05     %OK
+% % ,indexed/06 %OK
+% % ,indexed/07 %OK
+% % ,indexed/08 %OK
+% % ,indexed/09 %OK
+% % ,indexed/10 %OK
+% % ,indexed/11 %OK
+% % ,indexed/12 %OK
+% indexed/AppendixA 
+% ,indexed/AppendixB
+% }
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                              %%%
+%%%             Frontmatter                      %%%
+%%%                                              %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+% cmld: upshape for IPA in examples
+\renewcommand{\eachwordone}{\phonnb}
+\input{localcommands.tex} % is now loaded here to avoid it being overwritten
+
+\maketitle                
+\frontmatter
+% %% uncomment if you have preface and/or acknowledgements
+
+\currentpdfbookmark{Contents}{name} % adds a PDF bookmark
+\tableofcontents
+\include{indexed/acknowledgments}
+\include{indexed/abbreviations} 
+\include{indexed/QuickRef} 
+% \include{chapters/preface}
+
+\mainmatter         
+
+% Additional info for name index: alternative names of authors
+\ia{Latami, Wangyong@Lātāmī, Wángyǒng\bibzh{拉他咪·王勇}|see{Lātāmī, Dáshí}}
+\ia{Qiū, Fùyuán\bibzh{邱富元}|see{Lāmǎ, Zīwò}}
+\ia{Wang, Yong@Wáng, Yǒng\bibzh{王勇}|see{Lātāmī, Dáshí}}
+\ia{Shi, Gaofeng@Shí, Gāofēng\bibzh{石高峰}|see{Lāmù, Gātǔsà}}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                              %%%
+%%%             Chapters                         %%%
+%%%                                              %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ 
+
+\ohead{\headmark}
+\ihead{}
+\include{indexed/01}  % intro
+\include{indexed/02} % tones of nouns
+\include{indexed/03} % compound nouns
+\include{indexed/04} % clf
+\include{indexed/05} % N plus gramm
+\include{indexed/06} % V and combinations
+\include{indexed/07} % Groups
+\include{indexed/08} % Phonetic
+\include{indexed/09} % Dynamic and synchronic
+\include{indexed/10} % Typological
+\include{indexed/11} % Areal
+\include{indexed/12} % conclusion 
+\appendix
+\include{indexed/AppendixA} % Appendix A: vowels and consonants
+\include{indexed/AppendixB} % Appendix B: history and anthropology
+ 
+ 
+
+% % copy the lines above and adapt as necessary
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                              %%%
+%%%             Backmatter                       %%%
+%%%                                              %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{localseealso.tex} 
+\sloppy
+\input{backmatter.tex}
+
+% \cmldcomm[inline]{Temporary addition: A list of all tables for easy reference.}
+% \listoftables
+
+% Uncomment the line below to display list of notes
+%\listoftodos 
+
+\end{document}  

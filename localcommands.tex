@@ -1,0 +1,155 @@
+%add all your local new commands to this file
+
+% cmld: reduce font size of title to make it fit on one line (avoids awkward line break)
+\renewcommand{\lsCoverTitleFont}[1]{\sffamily\addfontfeatures{Scale=MatchUppercase}\fontsize{45pt}{14.5mm}\selectfont #1}
+
+
+% FONTS
+
+% am: Fonts for Chinese and IPA
+\newfontfamily\cn[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{AR PL UMing CN} %Chinese
+\newcommand{\zh}[1]{{\cn #1}}
+
+% \newfontfamily\phon[StylisticSet=5, Mapping=tex-text, Ligatures=Common, Scale=MatchLowercase, UprightFont={* Italic}]{Charis SIL} % IPA in italics
+\newfontfamily\phon[Mapping=tex-text, Ligatures=Common, Scale=MatchLowercase, UprightFont={* Bold}]{Charis SIL} % IPA in bold
+%\newfontfamily\phon[Mapping=tex-text, Ligatures=Common, Scale=MatchLowercase]{Charis SIL} % IPA
+\newcommand{\ipa}[1]{{\phon #1}}
+
+% cmld: non-bold IPA for examples % different font size was considered
+% and rejected
+%\newfontfamily\phonnb[Mapping=tex-text, Ligatures=Common, Scale=MatchLowercase]{Charis SIL} % IPA non-bold
+\newfontfamily\phonnb[Mapping=tex-text, Ligatures=Common, Scale=MatchLowercase]{Charis SIL} % IPA non-bold
+\newcommand{\ipaex}[1]{{\phonnb #1}}
+
+
+% for bibliography
+\newcommand{\bibzh}[1]{ {\cn #1}}
+\newcommand{\autcomp}[1]{ [#1]}
+\newcommand{\transl}[1]{ (#1)}
+
+
+% LINE BREAKING
+
+% cmld: by popular recommendation: fix Chinese line breaking
+\XeTeXlinebreaklocale 'zh'  
+\XeTeXlinebreakskip = 0pt plus 1pt
+
+
+
+%
+%% COMMENTS
+%
+%% cmld: Comments and notes 
+%% for Alexis Michaud (am)
+%\newcounter{todocounteram}
+% \newcommand{\amcomm}[2][]
+% {\refstepcounter{todocounteram}{\todo[size=\scriptsize, #1]{\sffamily \textbf{[AM~\thetodocounteram]} #2}}}
+%% for Luise Dorenbusch (cmld)
+% \newcounter{todocountercmld}
+% \newcommand{\cmldcomm}[2][]
+% {\refstepcounter{todocountercmld}{\todo[size=\scriptsize, color=yellow, #1]{\sffamily \textbf{[CMLD~\thetodocountercmld]} #2}}}
+%% internal comments (int)
+% \newcounter{todocounterint}
+% \newcommand{\intcomm}[2][]
+% {\refstepcounter{todocounterint}{\todo[size=\scriptsize, color=pink, #1]{\sffamily \textbf{[INTERNAL~\thetodocounterint]} #2}}}
+
+ 
+% TABLES 
+
+% cmld: New column types (for tabularx)
+\newcolumntype{Q}{>{\raggedright\arraybackslash}X}
+\newcolumntype{C}{>{\centering\arraybackslash}X}
+\newcolumntype{P}{>{\raggedright\hspace{0pt}\arraybackslash}p}
+
+% cmld: light gray shaded cell 
+\providecommand{\shadedcell}{\cellcolor[gray]{.8}}
+\providecommand{\lshadedcell}{\cellcolor[gray]{.9}}
+
+% cmld: boxes for tables
+\usetikzlibrary{calc}
+\newcommand{\tikzmark}[1]{\tikz[overlay,remember picture] \node (#1) {};}
+\newcommand{\DrawBox}[3][]{%
+    \tikz[overlay,remember picture]{
+    \draw[black,dashed,#1]
+      ($(#2)+(-2pt,10pt)$) rectangle
+      ($(#3)+(4pt,-3pt)$);}
+}
+
+% Alexis: command for X mark in table (used in Appendix)
+\newcommand{\xmark}{\ding{55}}
+
+
+% EXAMPLES
+
+% cmld: fix formatting and positioning of number for exe environments with tables
+\def\extab{\ex\leavevmode\vadjust{\vspace{-0.8\baselineskip}}\newline\normalfont}
+
+% cmld: inter-word space in glossed examples
+\glossglue = 0.8em plus 8pt minus 8pt
+
+
+% MAPS AND PHOTOS
+%% Copied from Volume 82
+%neuer Counter für Photofigure
+\newcounter{photofigure}
+
+%neue Umgebung für Photofigure
+\newenvironment{photofigure}[1][]{\addtocounter{figure}{-1}\refstepcounter{photofigure}\renewcommand{\thefigure}{\thechapter.\arabic{photofigure}}\renewcommand{\figurename}{Photo}\begin{figure}[#1]}{\end{figure}}
+
+%neuer Counter für Mapfigure
+\newcounter{mapfigure}
+
+%neue Umgebung für Mapfigure
+\newenvironment{mapfigure}[1][]{\addtocounter{figure}{-1}\refstepcounter{mapfigure}\renewcommand{\thefigure}{\thechapter.\arabic{mapfigure}}\renewcommand{\figurename}{Map}\begin{figure}[#1]}{\end{figure}}
+
+%am Kapitelanfang resetten:
+\makeatletter
+\@addtoreset{photofigure}{chapter}
+\@addtoreset{mapfigure}{chapter}
+\makeatother
+
+
+% UMBRUCH
+
+% cmld: page and line breaking, fine-tuning (Umbruch)
+% cmld: vertical
+\providecommand{\Hack}[1]{#1}
+% cmld: horizontal
+\providecommand{\hack}[1]{#1}
+
+
+% INDEX
+
+% also see addition to main.tex
+
+% cmld: fix name index: use bib-file field namea in name index, where present
+\renewbibmacro*{citeindex}{%
+  \ifciteindex
+    {\ifnameundef{namea}
+       {\indexnames{labelname}}
+       {\indexnames{namea}}%
+     \indexfield{indextitle}}
+    {}}
+
+\renewbibmacro*{bibindex}{%
+  \ifbibindex
+    {\ifnameundef{namea}
+       {\indexnames{labelname}}
+       {\indexnames{namea}}%
+     \indexfield{indextitle}}
+    {}}
+
+% Bold font for important mentions in the index of subjects
+\newcommand\isbf[1]{\is{#1@\textbf{#1}}}
+
+% Commands for cross-links in indexes. (As of Feb. 2017 this is now part of the Language Science Press standard package.)
+\def\igobble#1 {}
+% \newcommand{\langsciseealso}{\par\addvspace{.1\baselineskip}\hspace*{1.4cm}\hangindent=1.4cm\seealso}
+% \newcommand{\ilsa}[2]{\il{#1@\igobble | langsciseealso{#2}}}
+% \newcommand{\issa}[2]{\is{#1@\igobble | langsciseealso{#2}}}
+
+
+% VERTICAL SINGLE QUOTE for 'Phags-pa
+\newcommand{\apostrophe}{\XeTeXglyph\XeTeXcharglyph"0027\relax}
+
+\newcommand{\rephrase}[2]{{\color{yellow!30!black}#2}\todo{replaced `#1'}}
